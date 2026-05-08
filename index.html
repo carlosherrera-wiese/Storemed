@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Dashboard Financiero – Storemed</title>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.5.0/dist/chart.umd.js" integrity="sha384-iU8HYtnGQ8Cy4zl7gbNMOhsDTTKX02BTXptVP/vqAWIaTfM7isw76iyZCsjL2eVi" crossorigin="anonymous"></script>
+<style>
+:root { color-scheme: light; }
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: #f3f4f6; color: #111827; font-size: 13px; }
+
+#loading { display:flex; align-items:center; justify-content:center; height:100vh; flex-direction:column; gap:14px; }
+.spinner { width:38px; height:38px; border:4px solid #e5e7eb; border-top-color:#1d4ed8; border-radius:50%; animation:spin 0.75s linear infinite; }
+@keyframes spin { to { transform:rotate(360deg); } }
+
+.header { background:#fff; border-bottom:1px solid #e5e7eb; padding:12px 20px; display:flex; align-items:center; justify-content:space-between; }
+.header h1 { font-size:17px; font-weight:700; color:#1d4ed8; }
+.header-meta { font-size:11px; color:#9ca3af; }
+
+.controls { background:#fff; padding:10px 20px; border-bottom:1px solid #e5e7eb; display:flex; gap:20px; align-items:flex-end; flex-wrap:wrap; }
+.ctrl-block { display:flex; flex-direction:column; gap:4px; }
+.ctrl-label { font-size:10px; color:#6b7280; font-weight:600; text-transform:uppercase; letter-spacing:.05em; }
+.btn-group { display:flex; gap:3px; }
+.btn { padding:5px 14px; border:1px solid #d1d5db; background:#fff; border-radius:6px; cursor:pointer; font-size:12px; font-weight:500; color:#374151; transition:all .12s; }
+.btn:hover { background:#f9fafb; }
+.btn.active { background:#1d4ed8; color:#fff; border-color:#1d4ed8; }
+.chip { padding:4px 10px; border:1px solid #d1d5db; background:#fff; border-radius:20px; cursor:pointer; font-size:11px; font-weight:500; color:#374151; transition:all .12s; }
+.chip.active { background:#dbeafe; border-color:#93c5fd; color:#1e40af; font-weight:600; }
+.chip-row { display:flex; gap:3px; flex-wrap:wrap; }
+
+.kpi-grid { display:grid; grid-template-columns:repeat(5,1fr); gap:10px; padding:14px 20px 10px; }
+.kpi-card { background:#fff; border-radius:10px; padding:14px 16px; border:1px solid #e5e7eb; }
+.kpi-label { font-size:10px; color:#6b7280; text-transform:uppercase; letter-spacing:.05em; font-weight:600; }
+.kpi-val { font-size:21px; font-weight:700; margin:5px 0 3px; line-height:1.1; }
+.kpi-sub { font-size:10px; color:#9ca3af; }
+.kpi-trend { font-size:11px; margin-top:3px; font-weight:600; }
+
+.section { padding:0 20px 14px; }
+.section-title { font-size:11px; font-weight:700; color:#6b7280; margin-bottom:8px; text-transform:uppercase; letter-spacing:.05em; }
+.table-wrap { overflow-x:auto; border-radius:10px; border:1px solid #e5e7eb; }
+table { width:100%; border-collapse:collapse; background:#fff; min-width:600px; }
+thead th { background:#f9fafb; padding:8px 10px; text-align:right; font-weight:600; color:#374151; white-space:nowrap; border-bottom:2px solid #e5e7eb; font-size:11px; }
+thead th:first-child { text-align:left; min-width:155px; }
+tbody td { padding:6px 10px; text-align:right; border-bottom:1px solid #f3f4f6; white-space:nowrap; color:#374151; }
+tbody td:first-child { text-align:left; padding-left:14px; }
+tr.row-sep td { border-top:2px solid #d1d5db; font-weight:700; background:#f9fafb; }
+tr.row-sub td { font-size:10px; color:#9ca3af; }
+tr.row-neg td { color:#dc2626; }
+tr.row-sep.row-neg td { color:#dc2626; }
+td.in-sel { background:#eff6ff !important; }
+td.ytd { background:#dbeafe !important; font-weight:700; }
+th.in-sel { background:#dbeafe !important; }
+th.ytd { background:#bfdbfe !important; font-weight:700; }
+
+.chart-box { background:#fff; border-radius:10px; border:1px solid #e5e7eb; padding:16px; }
+.chart-title { font-size:12px; font-weight:700; color:#374151; margin-bottom:10px; }
+
+.footer { text-align:center; padding:20px; font-size:11px; color:#9ca3af; }
+
+#dashboard { display:none; }
+</style>
+</head>
+<body>
+
+<div id="loading">
+  <div class="spinner"></div>
+  <p style="color:#6b7280;font-size:13px">Cargando datos…</p>
+</div>
+
+<div id="error-view" style="display:none;padding:60px;text-align:center">
+  <p style="font-size:18px;font-weight:700;color:#dc2626">Error al cargar los datos</p>
+  <p id="err-msg" style="margin-top:10px;color:#6b7280;font-size:13px"></p>
+</div>
+
+<div id="dashboard">
+  <div class="header">
+    <h1>📊 Dashboard Financiero — Storemed</h1>
+    <span class="header-meta" id="hdr-meta"></span>
+  </div>
+
+  <div class="controls">
+    <div class="ctrl-block">
+      <span class="ctrl-label">Año</span>
+      <div class="btn-group" id="year-btns"></div>
+    </div>
+    <div class="ctrl-block">
+      <span class="ctrl-label">Fecha</span>
+      <div class="btn-group">
+        <button class="btn" id="btn-doc" onclick="setMode('fecha')">Documento</button>
+        <button class="btn" id="btn-fc"  onclick="setMode('fc')">Clasificación</button>
+      </div>
+    </div>
+    <div class="ctrl-block">
+      <span class="ctrl-label">Acumular hasta (YTD)</span>
+      <div class="chip-row" id="month-chips"></div>
+    </div>
+  </div>
+
+  <div class="kpi-grid" id="kpi-grid"></div>
+
+  <div class="section">
+    <div class="section-title">Estado de Resultados</div>
+    <div class="table-wrap">
+      <table>
+        <thead id="tbl-head"></thead>
+        <tbody id="tbl-body"></tbody>
+      </table>
+    </div>
+  </div>
+
+  <div class="section">
+    <div class="chart-box">
+      <div class="chart-title">Evolución Mensual</div>
+      <canvas id="chart" height="75"></canvas>
+    </div>
+  </div>
+
+  <div class="footer" id="footer"></div>
+</div>
+
+<script>
+const MES = ['Ene','Feb','Mar','Abr','May','Jun','Jul','Ago','Sep','Oct','Nov','Dic'];
+
+let D = null;
+let year = localStorage.getItem('sm_year') || '2026';
+let mode = localStorage.getItem('sm_mode') || 'fc';
+let ytdIdx = null;
+let myChart = null;
+
+// ── Helpers ──────────────────────────────────────────────────────────────────
+const fN  = v => Math.round(v).toLocaleString('es-CL');
+const fC  = v => { const a=Math.abs(v),s=v<0?'−':''; return a>=1e9?s+(a/1e9).toFixed(2)+'B':a>=1e6?s+(a/1e6).toFixed(1)+'M':s+fN(a); };
+const pct = (v,b) => b?(v/b*100).toFixed(1)+'%':'—';
+const sem = (act,meta,inv=false) => {
+  if(!meta||isNaN(meta)) return '';
+  const r=act/meta;
+  if(inv) return r<=0.9?'🟢':r<=1.1?'🟡':'🔴';
+  return r>=0.95?'🟢':r>=0.80?'🟡':'🔴';
+};
+
+function calcYTD(months, data) {
+  const t={ing:0,mp:0,tal:0,cv:0,tr:0,cf:0,gav:0,gf:0,mb:0,mn:0,util:0};
+  months.forEach(m=>{ const d=data[m]; if(d) Object.keys(t).forEach(k=>t[k]+=d[k]||0); });
+  return t;
+}
+
+function calcPE(ytd) {
+  const fix=ytd.cf+ytd.gav+ytd.gf, mnp=ytd.ing>0?ytd.mn/ytd.ing:0;
+  return mnp>0?fix/mnp:0;
+}
+
+// ── Render ────────────────────────────────────────────────────────────────────
+function render() {
+  if(!D) return;
+  const yd=D[year], md=yd[mode], months=yd.months, metas=D.metas[year]||{};
+  const selEnd=ytdIdx!==null?Math.min(ytdIdx,months.length-1):months.length-1;
+  const selMon=months.slice(0,selEnd+1);
+  const ytd=calcYTD(selMon,md), pe=calcPE(ytd);
+  const mbPct=ytd.ing?ytd.mb/ytd.ing*100:0, mnPct=ytd.ing?ytd.mn/ytd.ing*100:0;
+
+  // Month chips
+  document.getElementById('month-chips').innerHTML=months.map((m,i)=>{
+    const mi=parseInt(m.split('-')[1])-1;
+    return `<span class="chip${i<=selEnd?' active':''}" onclick="setYTD(${i})">${MES[mi]}</span>`;
+  }).join('');
+
+  // KPIs
+  document.getElementById('kpi-grid').innerHTML=`
+    <div class="kpi-card">
+      <div class="kpi-label">Ventas YTD</div>
+      <div class="kpi-val" style="color:#1d4ed8">${fC(ytd.ing)}</div>
+      <div class="kpi-sub">Meta anual: ${fC(metas.ing||0)}</div>
+      <div class="kpi-trend">${sem(ytd.ing,metas.ing)} ${metas.ing?pct(ytd.ing,metas.ing)+' de meta':''}</div>
+    </div>
+    <div class="kpi-card">
+      <div class="kpi-label">Punto de Equilibrio</div>
+      <div class="kpi-val" style="color:#7c3aed">${fC(pe)}</div>
+      <div class="kpi-sub">Ventas mín. para cubrir fijos</div>
+      <div class="kpi-trend" style="color:${ytd.ing>=pe?'#059669':'#dc2626'}">${ytd.ing>=pe?'✓ Sobre PE':'⚠ Bajo PE'}</div>
+    </div>
+    <div class="kpi-card">
+      <div class="kpi-label">Margen Bruto</div>
+      <div class="kpi-val" style="color:${mbPct>=(metas.mb_pct||60)?'#059669':'#dc2626'}">${mbPct.toFixed(1)}%</div>
+      <div class="kpi-sub">Meta: ${metas.mb_pct||'—'}%</div>
+      <div class="kpi-trend">${sem(mbPct,metas.mb_pct)} ${fC(ytd.mb)}</div>
+    </div>
+    <div class="kpi-card">
+      <div class="kpi-label">Margen Neto</div>
+      <div class="kpi-val" style="color:${mnPct>=(metas.mn_pct||30)?'#059669':'#dc2626'}">${mnPct.toFixed(1)}%</div>
+      <div class="kpi-sub">Meta: ${metas.mn_pct||'—'}%</div>
+      <div class="kpi-trend">${sem(mnPct,metas.mn_pct)} ${fC(ytd.mn)}</div>
+    </div>
+    <div class="kpi-card">
+      <div class="kpi-label">Utilidad YTD</div>
+      <div class="kpi-val" style="color:${ytd.util>=0?'#059669':'#dc2626'}">${fC(ytd.util)}</div>
+      <div class="kpi-sub">Meta anual: ${fC(metas.util||0)}</div>
+      <div class="kpi-trend">${sem(ytd.util,metas.util)} ${metas.util?pct(ytd.util,metas.util)+' de meta':''}</div>
+    </div>`;
+
+  // P&L Table
+  const colHdrs=months.map((m,i)=>{
+    const mi=parseInt(m.split('-')[1])-1, cls=i<=selEnd?'in-sel':'';
+    return `<th class="${cls}">${MES[mi]}</th>`;
+  }).join('')+`<th class="ytd">YTD</th>`;
+  document.getElementById('tbl-head').innerHTML=`<tr><th>Concepto</th>${colHdrs}</tr>`;
+
+  const ROWS=[
+    {key:'ing', label:'Ventas',              sep:false, pctOf:null},
+    {key:'mp',  label:'(-) Materia Prima',   sep:false, pctOf:'ing'},
+    {key:'tal', label:'(-) Talleres',         sep:false, pctOf:'ing'},
+    {key:'mb',  label:'= Margen Bruto',       sep:true,  pctOf:'ing'},
+    {key:'cv',  label:'(-) Otros CV',         sep:false, pctOf:'ing'},
+    {key:'tr',  label:'(-) Transporte',       sep:false, pctOf:'ing'},
+    {key:'mn',  label:'= Margen Neto',        sep:true,  pctOf:'ing'},
+    {key:'cf',  label:'(-) Costos Fijos',     sep:false, pctOf:'ing'},
+    {key:'gav', label:'(-) GAV',              sep:false, pctOf:'ing'},
+    {key:'gf',  label:'(-) G. Financieros',   sep:false, pctOf:'ing'},
+    {key:'util',label:'= Utilidad',           sep:true,  pctOf:'ing'},
+  ];
+
+  document.getElementById('tbl-body').innerHTML=ROWS.map(row=>{
+    const cells=months.map((m,i)=>{
+      const v=md[m]?.[row.key]??0, cls=i<=selEnd?'in-sel':'';
+      return `<td class="${cls}">${fN(v)}</td>`;
+    }).join('')+`<td class="ytd">${fN(ytd[row.key])}</td>`;
+    const negCls=ytd[row.key]<0?' row-neg':'', sepCls=row.sep?' row-sep':'';
+    const pctCells=months.map((m,i)=>{
+      const v=md[m]?.[row.key]??0, ing=md[m]?.ing??0, cls=i<=selEnd?'in-sel':'';
+      return row.pctOf?`<td class="${cls}">${pct(v,ing)}</td>`:`<td class="${cls}"></td>`;
+    }).join('')+(row.pctOf?`<td class="ytd">${pct(ytd[row.key],ytd[row.pctOf])}</td>`:'<td class="ytd"></td>');
+    return `<tr class="${sepCls}${negCls}"><td>${row.label}</td>${cells}</tr>
+            <tr class="row-sub"><td></td>${pctCells}</tr>`;
+  }).join('');
+
+  // Chart
+  const labels=months.map(m=>MES[parseInt(m.split('-')[1])-1]);
+  if(myChart) myChart.destroy();
+  myChart=new Chart(document.getElementById('chart').getContext('2d'),{
+    type:'line',
+    data:{labels,datasets:[
+      {label:'Ventas',       data:months.map(m=>md[m]?.ing||0),  borderColor:'#1d4ed8',borderWidth:2,tension:.3,fill:false,pointRadius:4},
+      {label:'Margen Bruto', data:months.map(m=>md[m]?.mb||0),   borderColor:'#059669',borderWidth:2,tension:.3,fill:false,pointRadius:4},
+      {label:'Margen Neto',  data:months.map(m=>md[m]?.mn||0),   borderColor:'#7c3aed',borderWidth:2,tension:.3,fill:false,pointRadius:4,borderDash:[5,3]},
+      {label:'Utilidad',     data:months.map(m=>md[m]?.util||0), borderColor:'#d97706',borderWidth:2,tension:.3,fill:false,pointRadius:4,borderDash:[3,3]},
+    ]},
+    options:{
+      responsive:true, interaction:{mode:'index',intersect:false},
+      plugins:{legend:{position:'top',labels:{font:{size:11},boxWidth:12}}},
+      scales:{
+        y:{ticks:{callback:v=>fC(v),font:{size:10}},grid:{color:'#f3f4f6'}},
+        x:{ticks:{font:{size:10}},grid:{display:false}}
+      }
+    }
+  });
+
+  document.getElementById('hdr-meta').textContent=`Actualizado: ${D.generated_at||'—'} | ${year} | Fecha ${mode==='fc'?'Clasificación':'Documento'}`;
+  document.getElementById('footer').textContent=`Storemed Dashboard Financiero · Datos: ${D.generated_at||'—'}`;
+}
+
+// ── Controls ──────────────────────────────────────────────────────────────────
+function setYear(y) {
+  year=y; ytdIdx=null; localStorage.setItem('sm_year',y);
+  document.querySelectorAll('#year-btns .btn').forEach(b=>b.classList.toggle('active',b.dataset.y===y));
+  render();
+}
+function setMode(m) {
+  mode=m; localStorage.setItem('sm_mode',m);
+  document.getElementById('btn-doc').classList.toggle('active',m==='fecha');
+  document.getElementById('btn-fc').classList.toggle('active',m==='fc');
+  render();
+}
+function setYTD(i) { ytdIdx=(ytdIdx===i)?null:i; render(); }
+
+// ── Init ──────────────────────────────────────────────────────────────────────
+async function init() {
+  try {
+    const res = await fetch('./data/storemed_data.json');
+    if (!res.ok) throw new Error(`No se pudo cargar el archivo de datos (HTTP ${res.status})`);
+    D = await res.json();
+
+    const years=Object.keys(D).filter(k=>/^\d{4}$/.test(k)).sort().reverse();
+    if(!years.includes(year)) year=years[0];
+    document.getElementById('year-btns').innerHTML=years.map(y=>
+      `<button class="btn${y===year?' active':''}" data-y="${y}" onclick="setYear('${y}')">${y}</button>`
+    ).join('');
+    document.getElementById('btn-doc').classList.toggle('active',mode==='fecha');
+    document.getElementById('btn-fc').classList.toggle('active',mode==='fc');
+
+    document.getElementById('loading').style.display='none';
+    document.getElementById('dashboard').style.display='block';
+    render();
+  } catch(e) {
+    document.getElementById('loading').style.display='none';
+    document.getElementById('error-view').style.display='block';
+    document.getElementById('err-msg').textContent=String(e.message||e);
+  }
+}
+
+init();
+</script>
+</body>
+</html>
