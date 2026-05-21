@@ -22,11 +22,40 @@
         "cv": 1073061,
         "tr": 4981488,
         "cf": 5511605,
-        "gav": 13875228,
+        "gav": 13875225,
         "gf": 2528306,
+        "oe": 0,
         "mb": 52113400,
         "mn": 46058851,
-        "util": 24143712
+        "util": 24143715,
+        "cf_detail": {
+          "Arriendo Planta/Bodega": 2036063,
+          "Costos Fijos de Despachos A Clientes": 1129507,
+          "Equipo Operaciones": 2250000,
+          "Plataforma LICITALAB": 96035
+        },
+        "gav_detail": {
+          "Certificados de fianza o fiel cumplimiento": 802880,
+          "Contabilidad Y Finanzas": 76302,
+          "Equipo Administracion": 5000000,
+          "Gastos Comerciales": 2087889,
+          "Items De Oficina": 1012206,
+          "Legal y Notarial": 994152,
+          "Otros Gastos Administración": 514395,
+          "Plataformas Administracion": 1849247,
+          "Previred": 1464874,
+          "Ret. Imp. Único Trab. Art. 74 N 1 LIR (auto)": 73280
+        },
+        "cv_detail": {
+          "Bonos": 250000,
+          "Mantención Y Mejoras Planta": 82000,
+          "Otros Costos de Producción": 176866,
+          "Packaging": 438375,
+          "Uniforme": 125820
+        },
+        "tr_detail": {
+          "Costos Variables de Despachos A Clientes": 4981488
+        }
       },
       "2025-02": {
         "ing": 67523812,
@@ -36,10 +65,39 @@
         "tr": 6929346,
         "cf": 7044435,
         "gav": 11285418,
-        "gf": 1837560,
+        "gf": 1811901,
+        "oe": 25659,
         "mb": 43731308,
         "mn": 34433882,
-        "util": 14266469
+        "util": 14266469,
+        "cf_detail": {
+          "Arriendo Planta/Bodega": 2415118,
+          "Costos Fijos de Despachos A Clientes": 1129529,
+          "Equipo Operaciones": 2000000,
+          "Equipo Ventas": 1403508,
+          "Plataforma LICITALAB": 96280
+        },
+        "gav_detail": {
+          "Certificados de fianza o fiel cumplimiento": 264109,
+          "Contabilidad Y Finanzas": 76213,
+          "Equipo Administracion": 5000000,
+          "Gastos Comerciales": 2000000,
+          "Items De Oficina": 584534,
+          "Otros Gastos Administración": 112196,
+          "Plataformas Administracion": 373574,
+          "Previred": 2384794,
+          "Ret. Imp. Único Trab. Art. 74 N 1 LIR (auto)": 489998
+        },
+        "cv_detail": {
+          "Bonos": 592820,
+          "Mantención Y Mejoras Planta": 338771,
+          "Otros Costos de Producción": 984836,
+          "Packaging": 436990,
+          "Seguros Y Seguridad": 14663
+        },
+        "tr_detail": {
+          "Costos Variables de Despachos A Clientes": 6929346
+        }
       },
       "2025-03": {
         "ing": 61427019,
@@ -50,9 +108,40 @@
         "cf": 7755959,
         "gav": 14213250,
         "gf": 1992769,
+        "oe": 0,
         "mb": 24267345,
         "mn": 12381367,
-        "util": -11580611
+        "util": -11580611,
+        "cf_detail": {
+          "Arriendo Planta/Bodega": 2425793,
+          "Costos Fijos de Despachos A Clientes": 1133842,
+          "Equipo Operaciones": 2100400,
+          "Equipo Producción": 1200000,
+          "Equipo Ventas": 701754,
+          "Plataforma LICITALAB": 194170
+        },
+        "gav_detail": {
+          "Certificados de fianza o fiel cumplimiento": 588554,
+          "Contabilidad Y Finanzas": 76831,
+          "Equipo Administracion": 5000000,
+          "Gastos Comerciales": 2071670,
+          "Items De Oficina": 1505392,
+          "Legal y Notarial": 969727,
+          "Otros Gastos Administración": 190156,
+          "Plataformas Administracion": 375710,
+          "Previred": 2895453,
+          "Ret. Imp. Único Trab. Art. 74 N 1 LIR (auto)": 539757
+        },
+        "cv_detail": {
+          "Bonos": 322168,
+          "Mantención Y Mejoras Planta": 979900,
+          "Otros Costos de Producción": 880506,
+          "Packaging": 3843897,
+          "Seguros Y Seguridad": 14766
+        },
+        "tr_detail": {
+          "Costos Variables de Despachos A Clientes": 5844741
+        }
       },
       "2025-04": {
         "ing": 56914680,
@@ -63,9 +152,38 @@
         "cf": 7074632,
         "gav": 14294706,
         "gf": 1210318,
+        "oe": 0,
         "mb": 27491620,
         "mn": 21618653,
-        "util": -961003
+        "util": -961003,
+        "cf_detail": {
+          "Arriendo Planta/Bodega": 2493740,
+          "Costos Fijos de Despachos A Clientes": 1136570,
+          "Equipo Operaciones": 2000547,
+          "Equipo Producción": 1200000,
+          "Plataforma LICITALAB": 243775
+        },
+        "gav_detail": {
+          "Certificados de fianza o fiel cumplimiento": 291944,
+          "Contabilidad Y Finanzas": 77300,
+          "Equipo Administracion": 5000000,
+          "Gastos Comerciales": 3995625,
+          "Items De Oficina": 387963,
+          "Otros Gastos Administración": 311131,
+          "Plataformas Administracion": 389494,
+          "Previred": 3351135,
+          "Ret. Imp. Único Trab. Art. 74 N 1 LIR (auto)": 490114
+        },
+        "cv_detail": {
+          "Bonos": 160462,
+          "Mantención Y Mejoras Planta": 217582,
+          "Otros Costos de Producción": 564712,
+          "Packaging": 77760,
+          "Seguros Y Seguridad": 14831
+        },
+        "tr_detail": {
+          "Costos Variables de Despachos A Clientes": 4837620
+        }
       },
       "2025-05": {
         "ing": 60672972,
@@ -75,13 +193,44 @@
         "tr": 1448360,
         "cf": 9645287,
         "gav": 14516574,
-        "gf": 520334,
+        "gf": 336515,
+        "oe": 183819,
         "mb": 33512915,
         "mn": 30124631,
-        "util": 5442436
+        "util": 5442436,
+        "cf_detail": {
+          "Arriendo Planta/Bodega": 3634574,
+          "Costos Fijos de Despachos A Clientes": 1157822,
+          "Equipo Operaciones": 1956392,
+          "Equipo Producción": 1950000,
+          "Equipo Ventas": 701754,
+          "Plataforma LICITALAB": 244745
+        },
+        "gav_detail": {
+          "Certificados de fianza o fiel cumplimiento": 206060,
+          "Contabilidad Y Finanzas": 310653,
+          "Equipo Administracion": 5000000,
+          "Gastos Comerciales": 3613840,
+          "Items De Oficina": 353333,
+          "Legal y Notarial": 584796,
+          "Otros Gastos Administración": 142336,
+          "Plataformas Administracion": 297023,
+          "Previred": 3518162,
+          "Ret. Imp. Único Trab. Art. 74 N 1 LIR (auto)": 490371
+        },
+        "cv_detail": {
+          "Bonos": 329538,
+          "Mantención Y Mejoras Planta": 254773,
+          "Otros Costos de Producción": 640759,
+          "Packaging": 491696,
+          "Uniforme": 223158
+        },
+        "tr_detail": {
+          "Costos Variables de Despachos A Clientes": 1448360
+        }
       },
       "2025-06": {
-        "ing": 75333540,
+        "ing": 71501040,
         "mp": 29061248,
         "tal": 3392900,
         "cv": 1830101,
@@ -89,12 +238,43 @@
         "cf": 10424042,
         "gav": 14910494,
         "gf": 864353,
-        "mb": 42879392,
-        "mn": 36458857,
-        "util": 10259968
+        "oe": 0,
+        "mb": 39046892,
+        "mn": 32626357,
+        "util": 6427468,
+        "cf_detail": {
+          "Arriendo Planta/Bodega": 4096239,
+          "Costos Fijos de Despachos A Clientes": 1158960,
+          "Depreciación": 215383,
+          "Equipo Operaciones": 2056466,
+          "Equipo Producción": 1950000,
+          "Equipo Ventas": 701754,
+          "Plataforma LICITALAB": 245240
+        },
+        "gav_detail": {
+          "Certificados de fianza o fiel cumplimiento": 895023,
+          "Contabilidad Y Finanzas": 77874,
+          "Equipo Administracion": 5000000,
+          "Gastos Comerciales": 3776327,
+          "Items De Oficina": 305302,
+          "Legal y Notarial": 292398,
+          "Otros Gastos Administración": 136396,
+          "Plataformas Administracion": 415435,
+          "Previred": 3523452,
+          "Ret. Imp. Único Trab. Art. 74 N 1 LIR (auto)": 488287
+        },
+        "cv_detail": {
+          "Bonos": 475942,
+          "Mantención Y Mejoras Planta": 381454,
+          "Otros Costos de Producción": 622945,
+          "Packaging": 349760
+        },
+        "tr_detail": {
+          "Costos Variables de Despachos A Clientes": 4590434
+        }
       },
       "2025-07": {
-        "ing": 68601412,
+        "ing": 72811912,
         "mp": 19295620,
         "tal": 5926642,
         "cv": 8176592,
@@ -102,9 +282,42 @@
         "cf": 10069989,
         "gav": 14886299,
         "gf": 113287,
-        "mb": 43379150,
-        "mn": 29808650,
-        "util": 4739075
+        "oe": 0,
+        "mb": 47589650,
+        "mn": 34019150,
+        "util": 8949575,
+        "cf_detail": {
+          "Arriendo Planta/Bodega": 3976351,
+          "Costos Fijos de Despachos A Clientes": 1160094,
+          "Equipo Operaciones": 2056541,
+          "Equipo Producción": 1930000,
+          "Equipo Ventas": 701754,
+          "Plataforma LICITALAB": 245249
+        },
+        "gav_detail": {
+          "Certificados de fianza o fiel cumplimiento": 41630,
+          "Contabilidad Y Finanzas": 77884,
+          "Equipo Administracion": 5000000,
+          "Gastos Comerciales": 3636115,
+          "Items De Oficina": 544708,
+          "Legal y Notarial": 442738,
+          "Otros Gastos Administración": 330938,
+          "Plataformas Administracion": 796581,
+          "Previred": 3528699,
+          "Ret. Imp. Único Trab. Art. 74 N 1 LIR (auto)": 487006
+        },
+        "cv_detail": {
+          "Bonos": 778149,
+          "Mantención Y Mejoras Planta": 1313836,
+          "Otros Costos de Producción": 880774,
+          "Packaging": 5069285,
+          "Registros Y Certificaciones": 2300,
+          "Servicio de bodegaje": 87719,
+          "Uniforme": 44529
+        },
+        "tr_detail": {
+          "Costos Variables de Despachos A Clientes": 5393908
+        }
       },
       "2025-08": {
         "ing": 48350496,
@@ -115,9 +328,40 @@
         "cf": 10203044,
         "gav": 14808458,
         "gf": 863387,
+        "oe": 0,
         "mb": 13245495,
         "mn": 3612065,
-        "util": -22262824
+        "util": -22262824,
+        "cf_detail": {
+          "Arriendo Planta/Bodega": 4377454,
+          "Costos Fijos de Despachos A Clientes": 1222152,
+          "Equipo Operaciones": 1956392,
+          "Equipo Producción": 1700000,
+          "Equipo Ventas": 701754,
+          "Plataforma LICITALAB": 245292
+        },
+        "gav_detail": {
+          "Arriendo Oficina Virtual": 99000,
+          "Contabilidad Y Finanzas": 77694,
+          "Equipo Administracion": 5000000,
+          "Gastos Comerciales": 3670118,
+          "Items De Oficina": 819410,
+          "Otros Gastos Administración": 389551,
+          "Plataformas Administracion": 578986,
+          "Previred": 3683084,
+          "Ret. Imp. Único Trab. Art. 74 N 1 LIR (auto)": 490615
+        },
+        "cv_detail": {
+          "Bonos": 628166,
+          "Mantención Y Mejoras Planta": 563281,
+          "Otros Costos de Producción": 1219316,
+          "Packaging": 208128,
+          "Registros Y Certificaciones": 77631,
+          "Servicio de bodegaje": 280702
+        },
+        "tr_detail": {
+          "Costos Variables de Despachos A Clientes": 6656206
+        }
       },
       "2025-09": {
         "ing": 57279926,
@@ -127,23 +371,89 @@
         "tr": 4303165,
         "cf": 10750777,
         "gav": 14635587,
-        "gf": 702752,
+        "gf": 525861,
+        "oe": 176891,
         "mb": 9088271,
         "mn": 1174018,
-        "util": -24915098
+        "util": -24915098,
+        "cf_detail": {
+          "Arriendo Planta/Bodega": 4774795,
+          "Costos Fijos de Despachos A Clientes": 1226717,
+          "Equipo Operaciones": 2006726,
+          "Equipo Producción": 1794000,
+          "Equipo Ventas": 701754,
+          "Plataforma LICITALAB": 246785
+        },
+        "gav_detail": {
+          "Aguinaldo": 510936,
+          "Certificados de fianza o fiel cumplimiento": 210624,
+          "Contabilidad Y Finanzas": 78131,
+          "Equipo Administracion": 5000000,
+          "Gastos Comerciales": 3580037,
+          "Items De Oficina": 285989,
+          "Legal y Notarial": 248043,
+          "Otros Gastos Administración": 271713,
+          "Plataformas Administracion": 52455,
+          "Previred": 3888840,
+          "Ret. Imp. Único Trab. Art. 74 N 1 LIR (auto)": 508819
+        },
+        "cv_detail": {
+          "Bonos": 673983,
+          "Mantención Y Mejoras Planta": 1298403,
+          "Otros Costos de Producción": 890197,
+          "Packaging": 380205,
+          "Registros Y Certificaciones": 2300,
+          "Seguros Y Seguridad": 366000
+        },
+        "tr_detail": {
+          "Costos Variables de Despachos A Clientes": 4303165
+        }
       },
       "2025-10": {
-        "ing": 53236690,
+        "ing": 53436790,
         "mp": 10988554,
         "tal": 6263555,
         "cv": 1735561,
         "tr": 3018852,
         "cf": 10092278,
         "gav": 16567022,
-        "gf": 1253158,
-        "mb": 35984581,
-        "mn": 31230168,
-        "util": 3317710
+        "gf": 1101533,
+        "oe": 151625,
+        "mb": 36184681,
+        "mn": 31430268,
+        "util": 3517810,
+        "cf_detail": {
+          "Arriendo Planta/Bodega": 4360568,
+          "Costos Fijos de Despachos A Clientes": 1226872,
+          "Equipo Operaciones": 2006726,
+          "Equipo Producción": 1350000,
+          "Equipo Ventas": 701754,
+          "Herramientas De Producción": 199254,
+          "Plataforma LICITALAB": 247104
+        },
+        "gav_detail": {
+          "Certificados de fianza o fiel cumplimiento": 144046,
+          "Contabilidad Y Finanzas": 78312,
+          "Equipo Administracion": 5000000,
+          "Finiquitos": 1438412,
+          "Gastos Comerciales": 3891819,
+          "Items De Oficina": 413489,
+          "Legal y Notarial": 150000,
+          "Otros Gastos Administración": 292138,
+          "Plataformas Administracion": 1015221,
+          "Previred": 3662130,
+          "Ret. Imp. Único Trab. Art. 74 N 1 LIR (auto)": 481455
+        },
+        "cv_detail": {
+          "Bonos": 603623,
+          "Mantención Y Mejoras Planta": 33606,
+          "Otros Costos Variables": 1302,
+          "Otros Costos de Producción": 801500,
+          "Packaging": 295530
+        },
+        "tr_detail": {
+          "Costos Variables de Despachos A Clientes": 3018852
+        }
       },
       "2025-11": {
         "ing": 39499720,
@@ -153,10 +463,42 @@
         "tr": 4584756,
         "cf": 9638431,
         "gav": 14611327,
-        "gf": 829555,
+        "gf": 695653,
+        "oe": 133902,
         "mb": 23739136,
         "mn": 16250100,
-        "util": -8829213
+        "util": -8829213,
+        "cf_detail": {
+          "Arriendo Planta/Bodega": 4122158,
+          "Costos Fijos de Despachos A Clientes": 1205882,
+          "Equipo Operaciones": 2006875,
+          "Equipo Producción": 1350000,
+          "Equipo Ventas": 701754,
+          "Herramientas De Producción": 3990,
+          "Plataforma LICITALAB": 247772
+        },
+        "gav_detail": {
+          "Contabilidad Y Finanzas": 78565,
+          "Equipo Administracion": 5000000,
+          "Finiquitos": 898715,
+          "Gastos Comerciales": 3636937,
+          "Items De Oficina": 385378,
+          "Legal y Notarial": 225956,
+          "Otros Gastos Administración": 417667,
+          "Plataformas Administracion": 83861,
+          "Previred": 3423533,
+          "Ret. Imp. Único Trab. Art. 74 N 1 LIR (auto)": 460715
+        },
+        "cv_detail": {
+          "Bonos": 612814,
+          "Mantención Y Mejoras Planta": 522001,
+          "Otros Costos de Producción": 954792,
+          "Packaging": 453724,
+          "Registros Y Certificaciones": 360949
+        },
+        "tr_detail": {
+          "Costos Variables de Despachos A Clientes": 4584756
+        }
       },
       "2025-12": {
         "ing": 46659549,
@@ -166,10 +508,44 @@
         "tr": 3211251,
         "cf": 9838412,
         "gav": 13281716,
-        "gf": 1167992,
+        "gf": 1085225,
+        "oe": 82767,
         "mb": 28865694,
         "mn": 21906116,
-        "util": -2382004
+        "util": -2382004,
+        "cf_detail": {
+          "Arriendo Planta/Bodega": 4283711,
+          "Costos Fijos de Despachos A Clientes": 539019,
+          "Equipo Operaciones": 2006876,
+          "Equipo Producción": 1350000,
+          "Equipo Ventas": 1403508,
+          "Herramientas De Producción": 7286,
+          "Plataforma LICITALAB": 248012
+        },
+        "gav_detail": {
+          "Aguinaldo": 210000,
+          "Certificados de fianza o fiel cumplimiento": 552187,
+          "Contabilidad Y Finanzas": 78646,
+          "Equipo Administracion": 5000000,
+          "Finiquitos": 898715,
+          "Gastos Comerciales": 2057741,
+          "Items De Oficina": 261754,
+          "Legal y Notarial": 17000,
+          "Otros Gastos Administración": 294534,
+          "Plataformas Administracion": 440213,
+          "Previred": 3029704,
+          "Ret. Imp. Único Trab. Art. 74 N 1 LIR (auto)": 441222
+        },
+        "cv_detail": {
+          "Bonos": 393206,
+          "Mantención Y Mejoras Planta": 260980,
+          "Otros Costos de Producción": 798702,
+          "Packaging": 1530543,
+          "Registros Y Certificaciones": 764896
+        },
+        "tr_detail": {
+          "Costos Variables de Despachos A Clientes": 3211251
+        }
       }
     },
     "fc": {
@@ -182,9 +558,39 @@
         "cf": 6353710,
         "gav": 12343164,
         "gf": 2528306,
+        "oe": 0,
         "mb": 30501938,
         "mn": 20426193,
-        "util": -798987
+        "util": -798987,
+        "cf_detail": {
+          "Arriendo Planta/Bodega": 2176414,
+          "Costos Fijos de Despachos A Clientes": 1129507,
+          "Equipo Operaciones": 2250000,
+          "Equipo Ventas": 701754,
+          "Plataforma LICITALAB": 96035
+        },
+        "gav_detail": {
+          "Certificados de fianza o fiel cumplimiento": 132935,
+          "Contabilidad Y Finanzas": 76302,
+          "Equipo Administracion": 5000000,
+          "Gastos Comerciales": 2087889,
+          "Items De Oficina": 1536560,
+          "Legal y Notarial": 994152,
+          "Otros Gastos Administración": 480364,
+          "Plataformas Administracion": 496808,
+          "Previred": 1464874,
+          "Ret. Imp. Único Trab. Art. 74 N 1 LIR (auto)": 73280
+        },
+        "cv_detail": {
+          "Bonos": 581340,
+          "Mantención Y Mejoras Planta": 398635,
+          "Otros Costos de Producción": 176866,
+          "Packaging": 663975,
+          "Uniforme": 125820
+        },
+        "tr_detail": {
+          "Costos Variables de Despachos A Clientes": 8129109
+        }
       },
       "2025-02": {
         "ing": 67523812,
@@ -194,10 +600,40 @@
         "tr": 6929346,
         "cf": 6342681,
         "gav": 12419099,
-        "gf": 1837560,
+        "gf": 1811901,
+        "oe": 25659,
         "mb": 31659900,
         "mn": 22377179,
-        "util": 1777839
+        "util": 1777839,
+        "cf_detail": {
+          "Arriendo Planta/Bodega": 2415118,
+          "Costos Fijos de Despachos A Clientes": 1129529,
+          "Equipo Operaciones": 2000000,
+          "Equipo Ventas": 701754,
+          "Plataforma LICITALAB": 96280
+        },
+        "gav_detail": {
+          "Certificados de fianza o fiel cumplimiento": 934054,
+          "Contabilidad Y Finanzas": 76213,
+          "Equipo Administracion": 5000000,
+          "Gastos Comerciales": 2051453,
+          "Items De Oficina": 769756,
+          "Legal y Notarial": 25000,
+          "Otros Gastos Administración": 191308,
+          "Plataformas Administracion": 496523,
+          "Previred": 2384794,
+          "Ret. Imp. Único Trab. Art. 74 N 1 LIR (auto)": 489998
+        },
+        "cv_detail": {
+          "Bonos": 261480,
+          "Mantención Y Mejoras Planta": 655406,
+          "Otros Costos de Producción": 984836,
+          "Packaging": 436990,
+          "Seguros Y Seguridad": 14663
+        },
+        "tr_detail": {
+          "Costos Variables de Despachos A Clientes": 6929346
+        }
       },
       "2025-03": {
         "ing": 61427019,
@@ -208,9 +644,40 @@
         "cf": 7755959,
         "gav": 13508844,
         "gf": 1992769,
+        "oe": 0,
         "mb": 20323936,
         "mn": 11102609,
-        "util": -12154963
+        "util": -12154963,
+        "cf_detail": {
+          "Arriendo Planta/Bodega": 2425793,
+          "Costos Fijos de Despachos A Clientes": 1133842,
+          "Equipo Operaciones": 2100400,
+          "Equipo Producción": 1200000,
+          "Equipo Ventas": 701754,
+          "Plataforma LICITALAB": 194170
+        },
+        "gav_detail": {
+          "Certificados de fianza o fiel cumplimiento": 313459,
+          "Contabilidad Y Finanzas": 76831,
+          "Equipo Administracion": 5000000,
+          "Gastos Comerciales": 2422547,
+          "Items De Oficina": 578309,
+          "Legal y Notarial": 935673,
+          "Otros Gastos Administración": 248156,
+          "Plataformas Administracion": 498659,
+          "Previred": 2895453,
+          "Ret. Imp. Único Trab. Art. 74 N 1 LIR (auto)": 539757
+        },
+        "cv_detail": {
+          "Bonos": 322168,
+          "Mantención Y Mejoras Planta": 406624,
+          "Otros Costos de Producción": 880506,
+          "Packaging": 1752522,
+          "Seguros Y Seguridad": 14766
+        },
+        "tr_detail": {
+          "Costos Variables de Despachos A Clientes": 5844741
+        }
       },
       "2025-04": {
         "ing": 56914680,
@@ -221,9 +688,39 @@
         "cf": 7776386,
         "gav": 14659171,
         "gf": 1210318,
+        "oe": 0,
         "mb": 22896316,
         "mn": 15688608,
-        "util": -7957267
+        "util": -7957267,
+        "cf_detail": {
+          "Arriendo Planta/Bodega": 2493740,
+          "Costos Fijos de Despachos A Clientes": 1136570,
+          "Equipo Operaciones": 2000547,
+          "Equipo Producción": 1200000,
+          "Equipo Ventas": 701754,
+          "Plataforma LICITALAB": 243775
+        },
+        "gav_detail": {
+          "Certificados de fianza o fiel cumplimiento": 567039,
+          "Contabilidad Y Finanzas": 77300,
+          "Equipo Administracion": 5000000,
+          "Gastos Comerciales": 3644748,
+          "Items De Oficina": 707561,
+          "Otros Gastos Administración": 308831,
+          "Plataformas Administracion": 512443,
+          "Previred": 3351135,
+          "Ret. Imp. Único Trab. Art. 74 N 1 LIR (auto)": 490114
+        },
+        "cv_detail": {
+          "Bonos": 256667,
+          "Mantención Y Mejoras Planta": 758993,
+          "Otros Costos de Producción": 564712,
+          "Packaging": 774885,
+          "Seguros Y Seguridad": 14831
+        },
+        "tr_detail": {
+          "Costos Variables de Despachos A Clientes": 4837620
+        }
       },
       "2025-05": {
         "ing": 60672972,
@@ -233,13 +730,44 @@
         "tr": 4855395,
         "cf": 9680375,
         "gav": 14892645,
-        "gf": 520334,
+        "gf": 336515,
+        "oe": 183819,
         "mb": 22697870,
         "mn": 15026916,
-        "util": -10066438
+        "util": -10066438,
+        "cf_detail": {
+          "Arriendo Planta/Bodega": 3669662,
+          "Costos Fijos de Despachos A Clientes": 1157822,
+          "Equipo Operaciones": 1956392,
+          "Equipo Producción": 1950000,
+          "Equipo Ventas": 701754,
+          "Plataforma LICITALAB": 244745
+        },
+        "gav_detail": {
+          "Certificados de fianza o fiel cumplimiento": 206060,
+          "Contabilidad Y Finanzas": 310653,
+          "Equipo Administracion": 5000000,
+          "Gastos Comerciales": 3613840,
+          "Items De Oficina": 523810,
+          "Legal y Notarial": 618850,
+          "Otros Gastos Administración": 190927,
+          "Plataformas Administracion": 419972,
+          "Previred": 3518162,
+          "Ret. Imp. Único Trab. Art. 74 N 1 LIR (auto)": 490371
+        },
+        "cv_detail": {
+          "Bonos": 476183,
+          "Mantención Y Mejoras Planta": 286638,
+          "Otros Costos de Producción": 640759,
+          "Packaging": 1188821,
+          "Uniforme": 223158
+        },
+        "tr_detail": {
+          "Costos Variables de Despachos A Clientes": 4855395
+        }
       },
       "2025-06": {
-        "ing": 75333540,
+        "ing": 71501040,
         "mp": 34042370,
         "tal": 7019632,
         "cv": 2557002,
@@ -247,12 +775,43 @@
         "cf": 10204340,
         "gav": 15672917,
         "gf": 852573,
-        "mb": 34271538,
-        "mn": 26172391,
-        "util": -557439
+        "oe": 0,
+        "mb": 30439038,
+        "mn": 22339891,
+        "util": -4389939,
+        "cf_detail": {
+          "Arriendo Planta/Bodega": 4061151,
+          "Costos Fijos de Despachos A Clientes": 1158960,
+          "Depreciación": 30769,
+          "Equipo Operaciones": 2056466,
+          "Equipo Producción": 1950000,
+          "Equipo Ventas": 701754,
+          "Plataforma LICITALAB": 245240
+        },
+        "gav_detail": {
+          "Certificados de fianza o fiel cumplimiento": 895023,
+          "Contabilidad Y Finanzas": 77874,
+          "Equipo Administracion": 5000000,
+          "Gastos Comerciales": 3722537,
+          "Items De Oficina": 510171,
+          "Legal y Notarial": 292398,
+          "Otros Gastos Administración": 126661,
+          "Plataformas Administracion": 1036514,
+          "Previred": 3523452,
+          "Ret. Imp. Único Trab. Art. 74 N 1 LIR (auto)": 488287
+        },
+        "cv_detail": {
+          "Bonos": 777718,
+          "Mantención Y Mejoras Planta": 381454,
+          "Otros Costos de Producción": 622945,
+          "Packaging": 774885
+        },
+        "tr_detail": {
+          "Costos Variables de Despachos A Clientes": 5542145
+        }
       },
       "2025-07": {
-        "ing": 68601412,
+        "ing": 72811912,
         "mp": 19188910,
         "tal": 9745337,
         "cv": 5354317,
@@ -260,9 +819,43 @@
         "cf": 10230758,
         "gav": 14705816,
         "gf": 125067,
-        "mb": 39667165,
-        "mn": 27556265,
-        "util": 2494624
+        "oe": 0,
+        "mb": 43877665,
+        "mn": 31766765,
+        "util": 6705124,
+        "cf_detail": {
+          "Arriendo Planta/Bodega": 4106351,
+          "Costos Fijos de Despachos A Clientes": 1160094,
+          "Depreciación": 30769,
+          "Equipo Operaciones": 2056541,
+          "Equipo Producción": 1930000,
+          "Equipo Ventas": 701754,
+          "Plataforma LICITALAB": 245249
+        },
+        "gav_detail": {
+          "Certificados de fianza o fiel cumplimiento": 41630,
+          "Contabilidad Y Finanzas": 77884,
+          "Equipo Administracion": 5000000,
+          "Gastos Comerciales": 3689905,
+          "Items De Oficina": 662933,
+          "Legal y Notarial": 373815,
+          "Otros Gastos Administración": 340673,
+          "Plataformas Administracion": 503271,
+          "Previred": 3528699,
+          "Ret. Imp. Único Trab. Art. 74 N 1 LIR (auto)": 487006
+        },
+        "cv_detail": {
+          "Bonos": 611689,
+          "Mantención Y Mejoras Planta": 1013836,
+          "Otros Costos de Producción": 1173399,
+          "Packaging": 2420845,
+          "Registros Y Certificaciones": 2300,
+          "Servicio de bodegaje": 87719,
+          "Uniforme": 44529
+        },
+        "tr_detail": {
+          "Costos Variables de Despachos A Clientes": 6756583
+        }
       },
       "2025-08": {
         "ing": 48350496,
@@ -273,9 +866,41 @@
         "cf": 10138901,
         "gav": 15002317,
         "gf": 445807,
+        "oe": 0,
         "mb": 12627080,
         "mn": 4144556,
-        "util": -21442469
+        "util": -21442469,
+        "cf_detail": {
+          "Arriendo Planta/Bodega": 4282542,
+          "Costos Fijos de Despachos A Clientes": 1222152,
+          "Depreciación": 30769,
+          "Equipo Operaciones": 1956392,
+          "Equipo Producción": 1700000,
+          "Equipo Ventas": 701754,
+          "Plataforma LICITALAB": 245292
+        },
+        "gav_detail": {
+          "Arriendo Oficina Virtual": 99000,
+          "Contabilidad Y Finanzas": 77694,
+          "Equipo Administracion": 5000000,
+          "Gastos Comerciales": 3670118,
+          "Items De Oficina": 972191,
+          "Otros Gastos Administración": 389551,
+          "Plataformas Administracion": 620064,
+          "Previred": 3683084,
+          "Ret. Imp. Único Trab. Art. 74 N 1 LIR (auto)": 490615
+        },
+        "cv_detail": {
+          "Bonos": 673983,
+          "Mantención Y Mejoras Planta": 713281,
+          "Otros Costos de Producción": 926691,
+          "Packaging": 1668348,
+          "Registros Y Certificaciones": 77631,
+          "Servicio de bodegaje": 280702
+        },
+        "tr_detail": {
+          "Costos Variables de Despachos A Clientes": 4141888
+        }
       },
       "2025-09": {
         "ing": 57279926,
@@ -285,23 +910,92 @@
         "tr": 2992688,
         "cf": 10746458,
         "gav": 14897384,
-        "gf": 1120332,
+        "gf": 943441,
+        "oe": 176891,
         "mb": 33946386,
         "mn": 26581452,
-        "util": -182722
+        "util": -182722,
+        "cf_detail": {
+          "Arriendo Planta/Bodega": 4739707,
+          "Costos Fijos de Despachos A Clientes": 1226717,
+          "Depreciación": 30769,
+          "Equipo Operaciones": 2006726,
+          "Equipo Producción": 1794000,
+          "Equipo Ventas": 701754,
+          "Plataforma LICITALAB": 246785
+        },
+        "gav_detail": {
+          "Aguinaldo": 510936,
+          "Certificados de fianza o fiel cumplimiento": 210624,
+          "Contabilidad Y Finanzas": 78131,
+          "Equipo Administracion": 5000000,
+          "Gastos Comerciales": 3580037,
+          "Items De Oficina": 421492,
+          "Legal y Notarial": 243443,
+          "Otros Gastos Administración": 271713,
+          "Plataformas Administracion": 175404,
+          "Previred": 3896785,
+          "Ret. Imp. Único Trab. Art. 74 N 1 LIR (auto)": 508819
+        },
+        "cv_detail": {
+          "Bonos": 603623,
+          "Mantención Y Mejoras Planta": 944201,
+          "Otros Costos de Producción": 890197,
+          "Packaging": 1840425,
+          "Registros Y Certificaciones": 2300,
+          "Seguros Y Seguridad": 91500
+        },
+        "tr_detail": {
+          "Costos Variables de Despachos A Clientes": 2992688
+        }
       },
       "2025-10": {
-        "ing": 53236690,
+        "ing": 53436790,
         "mp": 17453133,
         "tal": 8785295,
         "cv": 2473495,
         "tr": 5087008,
         "cf": 10052871,
         "gav": 16380739,
-        "gf": 1253158,
-        "mb": 26998262,
-        "mn": 19437759,
-        "util": -8249009
+        "gf": 1101533,
+        "oe": 151625,
+        "mb": 27198362,
+        "mn": 19637859,
+        "util": -8048909,
+        "cf_detail": {
+          "Arriendo Planta/Bodega": 4290392,
+          "Costos Fijos de Despachos A Clientes": 1226872,
+          "Depreciación": 30769,
+          "Equipo Operaciones": 2006726,
+          "Equipo Producción": 1350000,
+          "Equipo Ventas": 701754,
+          "Herramientas De Producción": 199254,
+          "Plataforma LICITALAB": 247104
+        },
+        "gav_detail": {
+          "Certificados de fianza o fiel cumplimiento": 144046,
+          "Contabilidad Y Finanzas": 78312,
+          "Equipo Administracion": 5000000,
+          "Finiquitos": 1438412,
+          "Gastos Comerciales": 3891819,
+          "Items De Oficina": 511527,
+          "Legal y Notarial": 154600,
+          "Otros Gastos Administración": 292138,
+          "Plataformas Administracion": 718381,
+          "Previred": 3670049,
+          "Ret. Imp. Único Trab. Art. 74 N 1 LIR (auto)": 481455
+        },
+        "cv_detail": {
+          "Bonos": 745855,
+          "Mantención Y Mejoras Planta": 537808,
+          "Otros Costos Variables": 1302,
+          "Otros Costos de Producción": 801500,
+          "Packaging": 295530,
+          "Seguros Y Seguridad": 91500
+        },
+        "tr_detail": {
+          "Costos Variables de Despachos A Clientes": 5087008
+        }
       },
       "2025-11": {
         "ing": 39499720,
@@ -311,10 +1005,44 @@
         "tr": 2934501,
         "cf": 9739376,
         "gav": 15173577,
-        "gf": 829555,
+        "gf": 695653,
+        "oe": 133902,
         "mb": 22383509,
         "mn": 17017311,
-        "util": -8725197
+        "util": -8725197,
+        "cf_detail": {
+          "Arriendo Planta/Bodega": 4192334,
+          "Costos Fijos de Despachos A Clientes": 1205882,
+          "Depreciación": 30769,
+          "Equipo Operaciones": 2006875,
+          "Equipo Producción": 1350000,
+          "Equipo Ventas": 701754,
+          "Herramientas De Producción": 3990,
+          "Plataforma LICITALAB": 247772
+        },
+        "gav_detail": {
+          "Contabilidad Y Finanzas": 78565,
+          "Equipo Administracion": 5000000,
+          "Finiquitos": 898715,
+          "Gastos Comerciales": 3548540,
+          "Items De Oficina": 483416,
+          "Legal y Notarial": 186900,
+          "Otros Gastos Administración": 438675,
+          "Plataformas Administracion": 646589,
+          "Previred": 3431462,
+          "Ret. Imp. Único Trab. Art. 74 N 1 LIR (auto)": 460715
+        },
+        "cv_detail": {
+          "Bonos": 309730,
+          "Mantención Y Mejoras Planta": 261002,
+          "Otros Costos de Producción": 954792,
+          "Packaging": 453724,
+          "Registros Y Certificaciones": 360949,
+          "Seguros Y Seguridad": 91500
+        },
+        "tr_detail": {
+          "Costos Variables de Despachos A Clientes": 2934501
+        }
       },
       "2025-12": {
         "ing": 46659549,
@@ -323,26 +1051,594 @@
         "cv": 4203040,
         "tr": 4522583,
         "cf": 9274864,
-        "gav": 13800793,
-        "gf": 1167992,
+        "gav": 13800792,
+        "gf": 1085225,
+        "oe": 82767,
         "mb": 23058285,
         "mn": 14332662,
-        "util": -9910987
+        "util": -9910986,
+        "cf_detail": {
+          "Arriendo Planta/Bodega": 4391148,
+          "Costos Fijos de Despachos A Clientes": 539019,
+          "Depreciación": 30769,
+          "Equipo Operaciones": 2006876,
+          "Equipo Producción": 1350000,
+          "Equipo Ventas": 701754,
+          "Herramientas De Producción": 7286,
+          "Plataforma LICITALAB": 248012
+        },
+        "gav_detail": {
+          "Aguinaldo": 210000,
+          "Certificados de fianza o fiel cumplimiento": 552187,
+          "Contabilidad Y Finanzas": 78646,
+          "Equipo Administracion": 5000000,
+          "Finiquitos": 898715,
+          "Gastos Comerciales": 2146138,
+          "Items De Oficina": 411962,
+          "Legal y Notarial": 124979,
+          "Otros Gastos Administración": 273526,
+          "Plataformas Administracion": 625768,
+          "Previred": 3037649,
+          "Ret. Imp. Único Trab. Art. 74 N 1 LIR (auto)": 441222
+        },
+        "cv_detail": {
+          "Bonos": 495420,
+          "Mantención Y Mejoras Planta": 521979,
+          "Otros Costos de Producción": 798702,
+          "Packaging": 1530543,
+          "Registros Y Certificaciones": 764896,
+          "Seguros Y Seguridad": 91500
+        },
+        "tr_detail": {
+          "Costos Variables de Despachos A Clientes": 4522583
+        }
       }
     },
     "data": {
-      "2025-01": {"ing":65315361,"mp":24237293,"tal":10576130,"cv":1946636,"tr":8129109,"cf":6353710,"gav":12343164,"gf":2528306,"oe":0,"mb":30501938,"mn":20426193,"util":-798987},
-      "2025-02": {"ing":67523812,"mp":29051103,"tal":6812809,"cv":2353375,"tr":6929346,"cf":6342681,"gav":12419099,"gf":1811901,"oe":25659,"mb":31659900,"mn":22377179,"util":1777839},
-      "2025-03": {"ing":61427019,"mp":29886740,"tal":11216343,"cv":3376586,"tr":5844741,"cf":7755959,"gav":13508844,"gf":1992769,"oe":0,"mb":20323936,"mn":11102609,"util":-12154963},
-      "2025-04": {"ing":56914680,"mp":27132296,"tal":6886068,"cv":2370088,"tr":4837620,"cf":7776386,"gav":14659171,"gf":1210318,"oe":0,"mb":22896316,"mn":15688608,"util":-7957267},
-      "2025-05": {"ing":60672972,"mp":30294287,"tal":7680815,"cv":2815559,"tr":4855395,"cf":9680375,"gav":14892645,"gf":336515,"oe":183819,"mb":22697870,"mn":15026916,"util":-10066438},
-      "2025-06": {"ing":75333540,"mp":34042370,"tal":7019632,"cv":2557002,"tr":5542145,"cf":10204340,"gav":15672917,"gf":852573,"oe":0,"mb":34271538,"mn":26172391,"util":-557439},
-      "2025-07": {"ing":68601412,"mp":19188910,"tal":9745337,"cv":5354317,"tr":6756583,"cf":10230758,"gav":14705816,"gf":125067,"oe":0,"mb":39667165,"mn":27556265,"util":2494624},
-      "2025-08": {"ing":48350496,"mp":25237954,"tal":10485462,"cv":4340636,"tr":4141888,"cf":10138901,"gav":15002317,"gf":445807,"oe":0,"mb":12627080,"mn":4144556,"util":-21442469},
-      "2025-09": {"ing":57279926,"mp":17194546,"tal":6138994,"cv":4372246,"tr":2992688,"cf":10746458,"gav":14897384,"gf":506057,"oe":614275,"mb":33946386,"mn":26581452,"util":-182722},
-      "2025-10": {"ing":53236690,"mp":17453133,"tal":8785295,"cv":2473495,"tr":5087008,"cf":10052871,"gav":16380739,"gf":1101533,"oe":151625,"mb":26998262,"mn":19437759,"util":-8249009},
-      "2025-11": {"ing":39499720,"mp":13245674,"tal":3870537,"cv":2431697,"tr":2934501,"cf":9739376,"gav":15173577,"gf":695653,"oe":133902,"mb":22383509,"mn":17017311,"util":-8725197},
-      "2025-12": {"ing":46659549,"mp":20069142,"tal":3532122,"cv":4203040,"tr":4522583,"cf":9274864,"gav":13800793,"gf":1085225,"oe":82767,"mb":23058285,"mn":14332662,"util":-9910987}
+      "2025-01": {
+        "ing": 65315361,
+        "mp": 24237293,
+        "tal": 10576130,
+        "cv": 1946636,
+        "tr": 8129109,
+        "cf": 6353710,
+        "gav": 12343164,
+        "gf": 2528306,
+        "oe": 0,
+        "mb": 30501938,
+        "mn": 20426193,
+        "util": -798987,
+        "cf_detail": {
+          "Arriendo Planta/Bodega": 2176414,
+          "Costos Fijos de Despachos A Clientes": 1129507,
+          "Equipo Operaciones": 2250000,
+          "Equipo Ventas": 701754,
+          "Plataforma LICITALAB": 96035
+        },
+        "gav_detail": {
+          "Certificados de fianza o fiel cumplimiento": 132935,
+          "Contabilidad Y Finanzas": 76302,
+          "Equipo Administracion": 5000000,
+          "Gastos Comerciales": 2087889,
+          "Items De Oficina": 1536560,
+          "Legal y Notarial": 994152,
+          "Otros Gastos Administración": 480364,
+          "Plataformas Administracion": 496808,
+          "Previred": 1464874,
+          "Ret. Imp. Único Trab. Art. 74 N 1 LIR (auto)": 73280
+        },
+        "cv_detail": {
+          "Bonos": 581340,
+          "Mantención Y Mejoras Planta": 398635,
+          "Otros Costos de Producción": 176866,
+          "Packaging": 663975,
+          "Uniforme": 125820
+        },
+        "tr_detail": {
+          "Costos Variables de Despachos A Clientes": 8129109
+        }
+      },
+      "2025-02": {
+        "ing": 67523812,
+        "mp": 29051103,
+        "tal": 6812809,
+        "cv": 2353375,
+        "tr": 6929346,
+        "cf": 6342681,
+        "gav": 12419099,
+        "gf": 1811901,
+        "oe": 25659,
+        "mb": 31659900,
+        "mn": 22377179,
+        "util": 1777839,
+        "cf_detail": {
+          "Arriendo Planta/Bodega": 2415118,
+          "Costos Fijos de Despachos A Clientes": 1129529,
+          "Equipo Operaciones": 2000000,
+          "Equipo Ventas": 701754,
+          "Plataforma LICITALAB": 96280
+        },
+        "gav_detail": {
+          "Certificados de fianza o fiel cumplimiento": 934054,
+          "Contabilidad Y Finanzas": 76213,
+          "Equipo Administracion": 5000000,
+          "Gastos Comerciales": 2051453,
+          "Items De Oficina": 769756,
+          "Legal y Notarial": 25000,
+          "Otros Gastos Administración": 191308,
+          "Plataformas Administracion": 496523,
+          "Previred": 2384794,
+          "Ret. Imp. Único Trab. Art. 74 N 1 LIR (auto)": 489998
+        },
+        "cv_detail": {
+          "Bonos": 261480,
+          "Mantención Y Mejoras Planta": 655406,
+          "Otros Costos de Producción": 984836,
+          "Packaging": 436990,
+          "Seguros Y Seguridad": 14663
+        },
+        "tr_detail": {
+          "Costos Variables de Despachos A Clientes": 6929346
+        }
+      },
+      "2025-03": {
+        "ing": 61427019,
+        "mp": 29886740,
+        "tal": 11216343,
+        "cv": 3376586,
+        "tr": 5844741,
+        "cf": 7755959,
+        "gav": 13508844,
+        "gf": 1992769,
+        "oe": 0,
+        "mb": 20323936,
+        "mn": 11102609,
+        "util": -12154963,
+        "cf_detail": {
+          "Arriendo Planta/Bodega": 2425793,
+          "Costos Fijos de Despachos A Clientes": 1133842,
+          "Equipo Operaciones": 2100400,
+          "Equipo Producción": 1200000,
+          "Equipo Ventas": 701754,
+          "Plataforma LICITALAB": 194170
+        },
+        "gav_detail": {
+          "Certificados de fianza o fiel cumplimiento": 313459,
+          "Contabilidad Y Finanzas": 76831,
+          "Equipo Administracion": 5000000,
+          "Gastos Comerciales": 2422547,
+          "Items De Oficina": 578309,
+          "Legal y Notarial": 935673,
+          "Otros Gastos Administración": 248156,
+          "Plataformas Administracion": 498659,
+          "Previred": 2895453,
+          "Ret. Imp. Único Trab. Art. 74 N 1 LIR (auto)": 539757
+        },
+        "cv_detail": {
+          "Bonos": 322168,
+          "Mantención Y Mejoras Planta": 406624,
+          "Otros Costos de Producción": 880506,
+          "Packaging": 1752522,
+          "Seguros Y Seguridad": 14766
+        },
+        "tr_detail": {
+          "Costos Variables de Despachos A Clientes": 5844741
+        }
+      },
+      "2025-04": {
+        "ing": 56914680,
+        "mp": 27132296,
+        "tal": 6886068,
+        "cv": 2370088,
+        "tr": 4837620,
+        "cf": 7776386,
+        "gav": 14659171,
+        "gf": 1210318,
+        "oe": 0,
+        "mb": 22896316,
+        "mn": 15688608,
+        "util": -7957267,
+        "cf_detail": {
+          "Arriendo Planta/Bodega": 2493740,
+          "Costos Fijos de Despachos A Clientes": 1136570,
+          "Equipo Operaciones": 2000547,
+          "Equipo Producción": 1200000,
+          "Equipo Ventas": 701754,
+          "Plataforma LICITALAB": 243775
+        },
+        "gav_detail": {
+          "Certificados de fianza o fiel cumplimiento": 567039,
+          "Contabilidad Y Finanzas": 77300,
+          "Equipo Administracion": 5000000,
+          "Gastos Comerciales": 3644748,
+          "Items De Oficina": 707561,
+          "Otros Gastos Administración": 308831,
+          "Plataformas Administracion": 512443,
+          "Previred": 3351135,
+          "Ret. Imp. Único Trab. Art. 74 N 1 LIR (auto)": 490114
+        },
+        "cv_detail": {
+          "Bonos": 256667,
+          "Mantención Y Mejoras Planta": 758993,
+          "Otros Costos de Producción": 564712,
+          "Packaging": 774885,
+          "Seguros Y Seguridad": 14831
+        },
+        "tr_detail": {
+          "Costos Variables de Despachos A Clientes": 4837620
+        }
+      },
+      "2025-05": {
+        "ing": 60672972,
+        "mp": 30294287,
+        "tal": 7680815,
+        "cv": 2815559,
+        "tr": 4855395,
+        "cf": 9680375,
+        "gav": 14892645,
+        "gf": 336515,
+        "oe": 183819,
+        "mb": 22697870,
+        "mn": 15026916,
+        "util": -10066438,
+        "cf_detail": {
+          "Arriendo Planta/Bodega": 3669662,
+          "Costos Fijos de Despachos A Clientes": 1157822,
+          "Equipo Operaciones": 1956392,
+          "Equipo Producción": 1950000,
+          "Equipo Ventas": 701754,
+          "Plataforma LICITALAB": 244745
+        },
+        "gav_detail": {
+          "Certificados de fianza o fiel cumplimiento": 206060,
+          "Contabilidad Y Finanzas": 310653,
+          "Equipo Administracion": 5000000,
+          "Gastos Comerciales": 3613840,
+          "Items De Oficina": 523810,
+          "Legal y Notarial": 618850,
+          "Otros Gastos Administración": 190927,
+          "Plataformas Administracion": 419972,
+          "Previred": 3518162,
+          "Ret. Imp. Único Trab. Art. 74 N 1 LIR (auto)": 490371
+        },
+        "cv_detail": {
+          "Bonos": 476183,
+          "Mantención Y Mejoras Planta": 286638,
+          "Otros Costos de Producción": 640759,
+          "Packaging": 1188821,
+          "Uniforme": 223158
+        },
+        "tr_detail": {
+          "Costos Variables de Despachos A Clientes": 4855395
+        }
+      },
+      "2025-06": {
+        "ing": 71501040,
+        "mp": 34042370,
+        "tal": 7019632,
+        "cv": 2557002,
+        "tr": 5542145,
+        "cf": 10204340,
+        "gav": 15672917,
+        "gf": 852573,
+        "oe": 0,
+        "mb": 30439038,
+        "mn": 22339891,
+        "util": -4389939,
+        "cf_detail": {
+          "Arriendo Planta/Bodega": 4061151,
+          "Costos Fijos de Despachos A Clientes": 1158960,
+          "Depreciación": 30769,
+          "Equipo Operaciones": 2056466,
+          "Equipo Producción": 1950000,
+          "Equipo Ventas": 701754,
+          "Plataforma LICITALAB": 245240
+        },
+        "gav_detail": {
+          "Certificados de fianza o fiel cumplimiento": 895023,
+          "Contabilidad Y Finanzas": 77874,
+          "Equipo Administracion": 5000000,
+          "Gastos Comerciales": 3722537,
+          "Items De Oficina": 510171,
+          "Legal y Notarial": 292398,
+          "Otros Gastos Administración": 126661,
+          "Plataformas Administracion": 1036514,
+          "Previred": 3523452,
+          "Ret. Imp. Único Trab. Art. 74 N 1 LIR (auto)": 488287
+        },
+        "cv_detail": {
+          "Bonos": 777718,
+          "Mantención Y Mejoras Planta": 381454,
+          "Otros Costos de Producción": 622945,
+          "Packaging": 774885
+        },
+        "tr_detail": {
+          "Costos Variables de Despachos A Clientes": 5542145
+        }
+      },
+      "2025-07": {
+        "ing": 72811912,
+        "mp": 19188910,
+        "tal": 9745337,
+        "cv": 5354317,
+        "tr": 6756583,
+        "cf": 10230758,
+        "gav": 14705816,
+        "gf": 125067,
+        "oe": 0,
+        "mb": 43877665,
+        "mn": 31766765,
+        "util": 6705124,
+        "cf_detail": {
+          "Arriendo Planta/Bodega": 4106351,
+          "Costos Fijos de Despachos A Clientes": 1160094,
+          "Depreciación": 30769,
+          "Equipo Operaciones": 2056541,
+          "Equipo Producción": 1930000,
+          "Equipo Ventas": 701754,
+          "Plataforma LICITALAB": 245249
+        },
+        "gav_detail": {
+          "Certificados de fianza o fiel cumplimiento": 41630,
+          "Contabilidad Y Finanzas": 77884,
+          "Equipo Administracion": 5000000,
+          "Gastos Comerciales": 3689905,
+          "Items De Oficina": 662933,
+          "Legal y Notarial": 373815,
+          "Otros Gastos Administración": 340673,
+          "Plataformas Administracion": 503271,
+          "Previred": 3528699,
+          "Ret. Imp. Único Trab. Art. 74 N 1 LIR (auto)": 487006
+        },
+        "cv_detail": {
+          "Bonos": 611689,
+          "Mantención Y Mejoras Planta": 1013836,
+          "Otros Costos de Producción": 1173399,
+          "Packaging": 2420845,
+          "Registros Y Certificaciones": 2300,
+          "Servicio de bodegaje": 87719,
+          "Uniforme": 44529
+        },
+        "tr_detail": {
+          "Costos Variables de Despachos A Clientes": 6756583
+        }
+      },
+      "2025-08": {
+        "ing": 48350496,
+        "mp": 25237954,
+        "tal": 10485462,
+        "cv": 4340636,
+        "tr": 4141888,
+        "cf": 10138901,
+        "gav": 15002317,
+        "gf": 445807,
+        "oe": 0,
+        "mb": 12627080,
+        "mn": 4144556,
+        "util": -21442469,
+        "cf_detail": {
+          "Arriendo Planta/Bodega": 4282542,
+          "Costos Fijos de Despachos A Clientes": 1222152,
+          "Depreciación": 30769,
+          "Equipo Operaciones": 1956392,
+          "Equipo Producción": 1700000,
+          "Equipo Ventas": 701754,
+          "Plataforma LICITALAB": 245292
+        },
+        "gav_detail": {
+          "Arriendo Oficina Virtual": 99000,
+          "Contabilidad Y Finanzas": 77694,
+          "Equipo Administracion": 5000000,
+          "Gastos Comerciales": 3670118,
+          "Items De Oficina": 972191,
+          "Otros Gastos Administración": 389551,
+          "Plataformas Administracion": 620064,
+          "Previred": 3683084,
+          "Ret. Imp. Único Trab. Art. 74 N 1 LIR (auto)": 490615
+        },
+        "cv_detail": {
+          "Bonos": 673983,
+          "Mantención Y Mejoras Planta": 713281,
+          "Otros Costos de Producción": 926691,
+          "Packaging": 1668348,
+          "Registros Y Certificaciones": 77631,
+          "Servicio de bodegaje": 280702
+        },
+        "tr_detail": {
+          "Costos Variables de Despachos A Clientes": 4141888
+        }
+      },
+      "2025-09": {
+        "ing": 57279926,
+        "mp": 17194546,
+        "tal": 6138994,
+        "cv": 4372246,
+        "tr": 2992688,
+        "cf": 10746458,
+        "gav": 14897384,
+        "gf": 943441,
+        "oe": 176891,
+        "mb": 33946386,
+        "mn": 26581452,
+        "util": -182722,
+        "cf_detail": {
+          "Arriendo Planta/Bodega": 4739707,
+          "Costos Fijos de Despachos A Clientes": 1226717,
+          "Depreciación": 30769,
+          "Equipo Operaciones": 2006726,
+          "Equipo Producción": 1794000,
+          "Equipo Ventas": 701754,
+          "Plataforma LICITALAB": 246785
+        },
+        "gav_detail": {
+          "Aguinaldo": 510936,
+          "Certificados de fianza o fiel cumplimiento": 210624,
+          "Contabilidad Y Finanzas": 78131,
+          "Equipo Administracion": 5000000,
+          "Gastos Comerciales": 3580037,
+          "Items De Oficina": 421492,
+          "Legal y Notarial": 243443,
+          "Otros Gastos Administración": 271713,
+          "Plataformas Administracion": 175404,
+          "Previred": 3896785,
+          "Ret. Imp. Único Trab. Art. 74 N 1 LIR (auto)": 508819
+        },
+        "cv_detail": {
+          "Bonos": 603623,
+          "Mantención Y Mejoras Planta": 944201,
+          "Otros Costos de Producción": 890197,
+          "Packaging": 1840425,
+          "Registros Y Certificaciones": 2300,
+          "Seguros Y Seguridad": 91500
+        },
+        "tr_detail": {
+          "Costos Variables de Despachos A Clientes": 2992688
+        }
+      },
+      "2025-10": {
+        "ing": 53436790,
+        "mp": 17453133,
+        "tal": 8785295,
+        "cv": 2473495,
+        "tr": 5087008,
+        "cf": 10052871,
+        "gav": 16380739,
+        "gf": 1101533,
+        "oe": 151625,
+        "mb": 27198362,
+        "mn": 19637859,
+        "util": -8048909,
+        "cf_detail": {
+          "Arriendo Planta/Bodega": 4290392,
+          "Costos Fijos de Despachos A Clientes": 1226872,
+          "Depreciación": 30769,
+          "Equipo Operaciones": 2006726,
+          "Equipo Producción": 1350000,
+          "Equipo Ventas": 701754,
+          "Herramientas De Producción": 199254,
+          "Plataforma LICITALAB": 247104
+        },
+        "gav_detail": {
+          "Certificados de fianza o fiel cumplimiento": 144046,
+          "Contabilidad Y Finanzas": 78312,
+          "Equipo Administracion": 5000000,
+          "Finiquitos": 1438412,
+          "Gastos Comerciales": 3891819,
+          "Items De Oficina": 511527,
+          "Legal y Notarial": 154600,
+          "Otros Gastos Administración": 292138,
+          "Plataformas Administracion": 718381,
+          "Previred": 3670049,
+          "Ret. Imp. Único Trab. Art. 74 N 1 LIR (auto)": 481455
+        },
+        "cv_detail": {
+          "Bonos": 745855,
+          "Mantención Y Mejoras Planta": 537808,
+          "Otros Costos Variables": 1302,
+          "Otros Costos de Producción": 801500,
+          "Packaging": 295530,
+          "Seguros Y Seguridad": 91500
+        },
+        "tr_detail": {
+          "Costos Variables de Despachos A Clientes": 5087008
+        }
+      },
+      "2025-11": {
+        "ing": 39499720,
+        "mp": 13245674,
+        "tal": 3870537,
+        "cv": 2431697,
+        "tr": 2934501,
+        "cf": 9739376,
+        "gav": 15173577,
+        "gf": 695653,
+        "oe": 133902,
+        "mb": 22383509,
+        "mn": 17017311,
+        "util": -8725197,
+        "cf_detail": {
+          "Arriendo Planta/Bodega": 4192334,
+          "Costos Fijos de Despachos A Clientes": 1205882,
+          "Depreciación": 30769,
+          "Equipo Operaciones": 2006875,
+          "Equipo Producción": 1350000,
+          "Equipo Ventas": 701754,
+          "Herramientas De Producción": 3990,
+          "Plataforma LICITALAB": 247772
+        },
+        "gav_detail": {
+          "Contabilidad Y Finanzas": 78565,
+          "Equipo Administracion": 5000000,
+          "Finiquitos": 898715,
+          "Gastos Comerciales": 3548540,
+          "Items De Oficina": 483416,
+          "Legal y Notarial": 186900,
+          "Otros Gastos Administración": 438675,
+          "Plataformas Administracion": 646589,
+          "Previred": 3431462,
+          "Ret. Imp. Único Trab. Art. 74 N 1 LIR (auto)": 460715
+        },
+        "cv_detail": {
+          "Bonos": 309730,
+          "Mantención Y Mejoras Planta": 261002,
+          "Otros Costos de Producción": 954792,
+          "Packaging": 453724,
+          "Registros Y Certificaciones": 360949,
+          "Seguros Y Seguridad": 91500
+        },
+        "tr_detail": {
+          "Costos Variables de Despachos A Clientes": 2934501
+        }
+      },
+      "2025-12": {
+        "ing": 46659549,
+        "mp": 20069142,
+        "tal": 3532122,
+        "cv": 4203040,
+        "tr": 4522583,
+        "cf": 9274864,
+        "gav": 13800792,
+        "gf": 1085225,
+        "oe": 82767,
+        "mb": 23058285,
+        "mn": 14332662,
+        "util": -9910986,
+        "cf_detail": {
+          "Arriendo Planta/Bodega": 4391148,
+          "Costos Fijos de Despachos A Clientes": 539019,
+          "Depreciación": 30769,
+          "Equipo Operaciones": 2006876,
+          "Equipo Producción": 1350000,
+          "Equipo Ventas": 701754,
+          "Herramientas De Producción": 7286,
+          "Plataforma LICITALAB": 248012
+        },
+        "gav_detail": {
+          "Aguinaldo": 210000,
+          "Certificados de fianza o fiel cumplimiento": 552187,
+          "Contabilidad Y Finanzas": 78646,
+          "Equipo Administracion": 5000000,
+          "Finiquitos": 898715,
+          "Gastos Comerciales": 2146138,
+          "Items De Oficina": 411962,
+          "Legal y Notarial": 124979,
+          "Otros Gastos Administración": 273526,
+          "Plataformas Administracion": 625768,
+          "Previred": 3037649,
+          "Ret. Imp. Único Trab. Art. 74 N 1 LIR (auto)": 441222
+        },
+        "cv_detail": {
+          "Bonos": 495420,
+          "Mantención Y Mejoras Planta": 521979,
+          "Otros Costos de Producción": 798702,
+          "Packaging": 1530543,
+          "Registros Y Certificaciones": 764896,
+          "Seguros Y Seguridad": 91500
+        },
+        "tr_detail": {
+          "Costos Variables de Despachos A Clientes": 4522583
+        }
+      }
     }
   },
   "2026": {
@@ -363,9 +1659,39 @@
         "cf": 8090527,
         "gav": 11564821,
         "gf": 1629499,
+        "oe": 0,
         "mb": 42393346,
         "mn": 39275842,
-        "util": 17990995
+        "util": 17990995,
+        "cf_detail": {
+          "Arriendo Planta/Bodega": 3941515,
+          "Costos Fijos de Despachos A Clientes": 540584,
+          "Equipo Operaciones": 2010072,
+          "Equipo Producción": 1350001,
+          "Plataforma LICITALAB": 248355
+        },
+        "gav_detail": {
+          "Certificados de fianza o fiel cumplimiento": 198536,
+          "Contabilidad Y Finanzas": 78813,
+          "Equipo Administracion": 2000000,
+          "Finiquitos": 898715,
+          "Gastos Comerciales": 3562190,
+          "Items De Oficina": 335597,
+          "Otros Gastos Administración": 200405,
+          "Plataformas Administracion": 1044718,
+          "Previred": 3135011,
+          "Ret. Imp. Único Trab. Art. 74 N 1 LIR (auto)": 110836
+        },
+        "cv_detail": {
+          "Bonos": 50564,
+          "Mantención Y Mejoras Planta": 150000,
+          "Otros Costos de Producción": 951113,
+          "Packaging": 293733,
+          "Registros Y Certificaciones": 18400
+        },
+        "tr_detail": {
+          "Costos Variables de Despachos A Clientes": 1653694
+        }
       },
       "2026-02": {
         "ing": 49242200,
@@ -375,10 +1701,41 @@
         "tr": 5253852,
         "cf": 8756216,
         "gav": 12445306,
-        "gf": 2186789,
+        "gf": 2111487,
+        "oe": 75302,
         "mb": 30170480,
         "mn": 22971632,
-        "util": -416679
+        "util": -416679,
+        "cf_detail": {
+          "Arriendo Planta/Bodega": 3815665,
+          "Costos Fijos de Despachos A Clientes": 539590,
+          "Equipo Operaciones": 2009996,
+          "Equipo Producción": 1350000,
+          "Equipo Ventas": 767219,
+          "Herramientas De Producción": 25373,
+          "Plataforma LICITALAB": 248373
+        },
+        "gav_detail": {
+          "Contabilidad Y Finanzas": 78745,
+          "Equipo Administracion": 2000000,
+          "Gastos Comerciales": 5403816,
+          "Items De Oficina": 863835,
+          "Legal y Notarial": 50000,
+          "Otros Gastos Administración": 444199,
+          "Plataformas Administracion": 250002,
+          "Previred": 3243635,
+          "Ret. Imp. Único Trab. Art. 74 N 1 LIR (auto)": 111074
+        },
+        "cv_detail": {
+          "Bonos": 529756,
+          "Otros Costos de Producción": 1006683,
+          "Packaging": 105000,
+          "Registros Y Certificaciones": 283163,
+          "Uniforme": 20394
+        },
+        "tr_detail": {
+          "Costos Variables de Despachos A Clientes": 5253852
+        }
       },
       "2026-03": {
         "ing": 57716840,
@@ -389,9 +1746,42 @@
         "cf": 5483686,
         "gav": 12315235,
         "gf": 1233659,
+        "oe": 0,
         "mb": 39251270,
         "mn": 28355127,
-        "util": 9322547
+        "util": 9322547,
+        "cf_detail": {
+          "Arriendo Planta/Bodega": 590596,
+          "Costos Fijos de Despachos A Clientes": 541713,
+          "Equipo Operaciones": 2010146,
+          "Equipo Producción": 1350000,
+          "Equipo Ventas": 701754,
+          "Herramientas De Producción": 40466,
+          "Plataforma LICITALAB": 249011
+        },
+        "gav_detail": {
+          "Certificados de fianza o fiel cumplimiento": 30420,
+          "Contabilidad Y Finanzas": 78940,
+          "Equipo Administracion": 2000000,
+          "Gastos Comerciales": 5031987,
+          "Items De Oficina": 1083765,
+          "Legal y Notarial": 80000,
+          "Otros Gastos Administración": 344807,
+          "Plataformas Administracion": 332598,
+          "Previred": 3222127,
+          "Ret. Imp. Único Trab. Art. 74 N 1 LIR (auto)": 110591
+        },
+        "cv_detail": {
+          "Bonos": 892341,
+          "Mantención Y Mejoras Planta": 1584574,
+          "Otros Costos Variables": 70200,
+          "Otros Costos de Producción": 141593,
+          "Packaging": 894337,
+          "Servicio de bodegaje": 353982
+        },
+        "tr_detail": {
+          "Costos Variables de Despachos A Clientes": 6959116
+        }
       },
       "2026-04": {
         "ing": 51740755,
@@ -401,10 +1791,41 @@
         "tr": 4575332,
         "cf": 9851096,
         "gav": 9357315,
-        "gf": 1831582,
+        "gf": 1627754,
+        "oe": 203828,
         "mb": 34422834,
         "mn": 22381616,
-        "util": 1341623
+        "util": 1341623,
+        "cf_detail": {
+          "Arriendo Planta/Bodega": 4997645,
+          "Costos Fijos de Despachos A Clientes": 541713,
+          "Equipo Operaciones": 2010146,
+          "Equipo Producción": 1350000,
+          "Equipo Ventas": 701754,
+          "Plataforma LICITALAB": 249838
+        },
+        "gav_detail": {
+          "Certificados de fianza o fiel cumplimiento": 25357,
+          "Contabilidad Y Finanzas": 79030,
+          "Equipo Administracion": 2000000,
+          "Gastos Comerciales": 5886464,
+          "Items De Oficina": 394069,
+          "Legal y Notarial": 75000,
+          "Otros Gastos Administración": 643527,
+          "Plataformas Administracion": 250002,
+          "Previred": 3866
+        },
+        "cv_detail": {
+          "Bonos": 871050,
+          "Mantención Y Mejoras Planta": 580378,
+          "Otros Costos de Producción": 1054600,
+          "Packaging": 4742869,
+          "Registros Y Certificaciones": 4600,
+          "Servicio de bodegaje": 212389
+        },
+        "tr_detail": {
+          "Costos Variables de Despachos A Clientes": 4575332
+        }
       },
       "2026-05": {
         "ing": 8087600,
@@ -415,17 +1836,11 @@
         "cf": 0,
         "gav": 0,
         "gf": 24122,
+        "oe": 0,
         "mb": 7190200,
         "mn": 7190200,
         "util": 7166078
       }
-    },
-    "data": {
-      "2026-01": {"ing":49316400,"mp":13068878,"tal":3013718,"cv":3528735,"tr":4637487,"cf":8923913,"gav":12188901,"gf":1629499,"oe":0,"mb":33233804,"mn":25067582,"util":2325269},
-      "2026-02": {"ing":49242200,"mp":22203826,"tal":6503706,"cv":2718008,"tr":7522165,"cf":8827715,"gav":12069602,"gf":2111487,"oe":75302,"mb":20534668,"mn":10294495,"util":-12789611},
-      "2026-03": {"ing":57716840,"mp":17915988,"tal":4782052,"cv":5566756,"tr":4942317,"cf":9616491,"gav":12512987,"gf":1723659,"oe":0,"mb":35018800,"mn":24509727,"util":656590},
-      "2026-04": {"ing":51740755,"mp":18873393,"tal":0,"cv":5080956,"tr":1586300,"cf":4936482,"gav":9365176,"gf":1627754,"oe":203828,"mb":32867362,"mn":26200106,"util":10066866},
-      "2026-05": {"ing":8087600,"mp":897400,"tal":0,"cv":1049408,"tr":201681,"cf":30769,"gav":413619,"gf":24122,"oe":0,"mb":7190200,"mn":5939111,"util":5470601}
     },
     "fc": {
       "2026-01": {
@@ -437,9 +1852,43 @@
         "cf": 8923913,
         "gav": 12188901,
         "gf": 1629499,
+        "oe": 0,
         "mb": 33233804,
         "mn": 25067582,
-        "util": 2325269
+        "util": 2325269,
+        "cf_detail": {
+          "Arriendo Planta/Bodega": 3976913,
+          "Costos Fijos de Despachos A Clientes": 540584,
+          "Depreciación": 30769,
+          "Equipo Operaciones": 2010072,
+          "Equipo Producción": 1350001,
+          "Equipo Ventas": 767219,
+          "Plataforma LICITALAB": 248355
+        },
+        "gav_detail": {
+          "Certificados de fianza o fiel cumplimiento": 198536,
+          "Contabilidad Y Finanzas": 78813,
+          "Equipo Administracion": 2000000,
+          "Finiquitos": 898715,
+          "Gastos Comerciales": 4552252,
+          "Items De Oficina": 497404,
+          "Legal y Notarial": 107979,
+          "Otros Gastos Administración": 200405,
+          "Plataformas Administracion": 408950,
+          "Previred": 3135011,
+          "Ret. Imp. Único Trab. Art. 74 N 1 LIR (auto)": 110836
+        },
+        "cv_detail": {
+          "Bonos": 345549,
+          "Mantención Y Mejoras Planta": 671979,
+          "Otros Costos de Producción": 1305095,
+          "Packaging": 1098512,
+          "Registros Y Certificaciones": 16100,
+          "Seguros Y Seguridad": 91500
+        },
+        "tr_detail": {
+          "Costos Variables de Despachos A Clientes": 4637487
+        }
       },
       "2026-02": {
         "ing": 49242200,
@@ -449,10 +1898,44 @@
         "tr": 7522165,
         "cf": 8827715,
         "gav": 12069602,
-        "gf": 2186789,
+        "gf": 2111487,
+        "oe": 75302,
         "mb": 20534668,
         "mn": 10294495,
-        "util": -12789611
+        "util": -12789611,
+        "cf_detail": {
+          "Arriendo Planta/Bodega": 3921860,
+          "Costos Fijos de Despachos A Clientes": 539590,
+          "Depreciación": 30769,
+          "Equipo Operaciones": 2009996,
+          "Equipo Producción": 1350000,
+          "Equipo Ventas": 701754,
+          "Herramientas De Producción": 25373,
+          "Plataforma LICITALAB": 248373
+        },
+        "gav_detail": {
+          "Contabilidad Y Finanzas": 78745,
+          "Equipo Administracion": 2000000,
+          "Gastos Comerciales": 5038963,
+          "Items De Oficina": 836063,
+          "Legal y Notarial": 157979,
+          "Otros Gastos Administración": 194199,
+          "Plataformas Administracion": 408944,
+          "Previred": 3243635,
+          "Ret. Imp. Único Trab. Art. 74 N 1 LIR (auto)": 111074
+        },
+        "cv_detail": {
+          "Bonos": 892397,
+          "Mantención Y Mejoras Planta": 260980,
+          "Otros Costos de Producción": 794294,
+          "Packaging": 648453,
+          "Registros Y Certificaciones": 9990,
+          "Seguros Y Seguridad": 91500,
+          "Uniforme": 20394
+        },
+        "tr_detail": {
+          "Costos Variables de Despachos A Clientes": 7522165
+        }
       },
       "2026-03": {
         "ing": 57716840,
@@ -463,9 +1946,45 @@
         "cf": 9616491,
         "gav": 12512987,
         "gf": 1723659,
+        "oe": 0,
         "mb": 35018800,
         "mn": 24509727,
-        "util": 656590
+        "util": 656590,
+        "cf_detail": {
+          "Arriendo Planta/Bodega": 4692632,
+          "Costos Fijos de Despachos A Clientes": 541713,
+          "Depreciación": 30769,
+          "Equipo Operaciones": 2010146,
+          "Equipo Producción": 1350000,
+          "Equipo Ventas": 701754,
+          "Herramientas De Producción": 40466,
+          "Plataforma LICITALAB": 249011
+        },
+        "gav_detail": {
+          "Certificados de fianza o fiel cumplimiento": 30420,
+          "Contabilidad Y Finanzas": 78940,
+          "Equipo Administracion": 2000000,
+          "Gastos Comerciales": 5150383,
+          "Items De Oficina": 646200,
+          "Legal y Notarial": 187979,
+          "Otros Gastos Administración": 594807,
+          "Plataformas Administracion": 491540,
+          "Previred": 3222127,
+          "Ret. Imp. Único Trab. Art. 74 N 1 LIR (auto)": 110591
+        },
+        "cv_detail": {
+          "Bonos": 1105765,
+          "Mantención Y Mejoras Planta": 1177446,
+          "Otros Costos Variables": 70200,
+          "Otros Costos de Producción": 1054600,
+          "Packaging": 1437790,
+          "Registros Y Certificaciones": 275473,
+          "Seguros Y Seguridad": 91500,
+          "Servicio de bodegaje": 353982
+        },
+        "tr_detail": {
+          "Costos Variables de Despachos A Clientes": 4942317
+        }
       },
       "2026-04": {
         "ing": 51740755,
@@ -475,10 +1994,40 @@
         "tr": 1586300,
         "cf": 4936482,
         "gav": 9365176,
-        "gf": 1831582,
+        "gf": 1627754,
+        "oe": 203828,
         "mb": 32867362,
         "mn": 26200106,
-        "util": 10066866
+        "util": 10066866,
+        "cf_detail": {
+          "Arriendo Planta/Bodega": 754016,
+          "Costos Fijos de Despachos A Clientes": 541713,
+          "Depreciación": 30769,
+          "Equipo Operaciones": 2010146,
+          "Equipo Producción": 1350000,
+          "Plataforma LICITALAB": 249838
+        },
+        "gav_detail": {
+          "Certificados de fianza o fiel cumplimiento": 25357,
+          "Contabilidad Y Finanzas": 79030,
+          "Equipo Administracion": 2000000,
+          "Gastos Comerciales": 5182349,
+          "Items De Oficina": 839124,
+          "Legal y Notarial": 182979,
+          "Otros Gastos Administración": 643527,
+          "Plataformas Administracion": 408944,
+          "Previred": 3866
+        },
+        "cv_detail": {
+          "Mantención Y Mejoras Planta": 833820,
+          "Packaging": 3938647,
+          "Registros Y Certificaciones": 4600,
+          "Seguros Y Seguridad": 91500,
+          "Servicio de bodegaje": 212389
+        },
+        "tr_detail": {
+          "Costos Variables de Despachos A Clientes": 1586300
+        }
       },
       "2026-05": {
         "ing": 8087600,
@@ -489,9 +2038,242 @@
         "cf": 30769,
         "gav": 413619,
         "gf": 24122,
+        "oe": 0,
         "mb": 7190200,
         "mn": 5939111,
-        "util": 5470601
+        "util": 5470601,
+        "cf_detail": {
+          "Depreciación": 30769
+        },
+        "gav_detail": {
+          "Items De Oficina": 254677,
+          "Plataformas Administracion": 158942
+        },
+        "cv_detail": {
+          "Mantención Y Mejoras Planta": 153686,
+          "Packaging": 804222,
+          "Seguros Y Seguridad": 91500
+        },
+        "tr_detail": {
+          "Costos Variables de Despachos A Clientes": 201681
+        }
+      }
+    },
+    "data": {
+      "2026-01": {
+        "ing": 49316400,
+        "mp": 13068878,
+        "tal": 3013718,
+        "cv": 3528735,
+        "tr": 4637487,
+        "cf": 8923913,
+        "gav": 12188901,
+        "gf": 1629499,
+        "oe": 0,
+        "mb": 33233804,
+        "mn": 25067582,
+        "util": 2325269,
+        "cf_detail": {
+          "Arriendo Planta/Bodega": 3976913,
+          "Costos Fijos de Despachos A Clientes": 540584,
+          "Depreciación": 30769,
+          "Equipo Operaciones": 2010072,
+          "Equipo Producción": 1350001,
+          "Equipo Ventas": 767219,
+          "Plataforma LICITALAB": 248355
+        },
+        "gav_detail": {
+          "Certificados de fianza o fiel cumplimiento": 198536,
+          "Contabilidad Y Finanzas": 78813,
+          "Equipo Administracion": 2000000,
+          "Finiquitos": 898715,
+          "Gastos Comerciales": 4552252,
+          "Items De Oficina": 497404,
+          "Legal y Notarial": 107979,
+          "Otros Gastos Administración": 200405,
+          "Plataformas Administracion": 408950,
+          "Previred": 3135011,
+          "Ret. Imp. Único Trab. Art. 74 N 1 LIR (auto)": 110836
+        },
+        "cv_detail": {
+          "Bonos": 345549,
+          "Mantención Y Mejoras Planta": 671979,
+          "Otros Costos de Producción": 1305095,
+          "Packaging": 1098512,
+          "Registros Y Certificaciones": 16100,
+          "Seguros Y Seguridad": 91500
+        },
+        "tr_detail": {
+          "Costos Variables de Despachos A Clientes": 4637487
+        }
+      },
+      "2026-02": {
+        "ing": 49242200,
+        "mp": 22203826,
+        "tal": 6503706,
+        "cv": 2718008,
+        "tr": 7522165,
+        "cf": 8827715,
+        "gav": 12069602,
+        "gf": 2111487,
+        "oe": 75302,
+        "mb": 20534668,
+        "mn": 10294495,
+        "util": -12789611,
+        "cf_detail": {
+          "Arriendo Planta/Bodega": 3921860,
+          "Costos Fijos de Despachos A Clientes": 539590,
+          "Depreciación": 30769,
+          "Equipo Operaciones": 2009996,
+          "Equipo Producción": 1350000,
+          "Equipo Ventas": 701754,
+          "Herramientas De Producción": 25373,
+          "Plataforma LICITALAB": 248373
+        },
+        "gav_detail": {
+          "Contabilidad Y Finanzas": 78745,
+          "Equipo Administracion": 2000000,
+          "Gastos Comerciales": 5038963,
+          "Items De Oficina": 836063,
+          "Legal y Notarial": 157979,
+          "Otros Gastos Administración": 194199,
+          "Plataformas Administracion": 408944,
+          "Previred": 3243635,
+          "Ret. Imp. Único Trab. Art. 74 N 1 LIR (auto)": 111074
+        },
+        "cv_detail": {
+          "Bonos": 892397,
+          "Mantención Y Mejoras Planta": 260980,
+          "Otros Costos de Producción": 794294,
+          "Packaging": 648453,
+          "Registros Y Certificaciones": 9990,
+          "Seguros Y Seguridad": 91500,
+          "Uniforme": 20394
+        },
+        "tr_detail": {
+          "Costos Variables de Despachos A Clientes": 7522165
+        }
+      },
+      "2026-03": {
+        "ing": 57716840,
+        "mp": 17915988,
+        "tal": 4782052,
+        "cv": 5566756,
+        "tr": 4942317,
+        "cf": 9616491,
+        "gav": 12512987,
+        "gf": 1723659,
+        "oe": 0,
+        "mb": 35018800,
+        "mn": 24509727,
+        "util": 656590,
+        "cf_detail": {
+          "Arriendo Planta/Bodega": 4692632,
+          "Costos Fijos de Despachos A Clientes": 541713,
+          "Depreciación": 30769,
+          "Equipo Operaciones": 2010146,
+          "Equipo Producción": 1350000,
+          "Equipo Ventas": 701754,
+          "Herramientas De Producción": 40466,
+          "Plataforma LICITALAB": 249011
+        },
+        "gav_detail": {
+          "Certificados de fianza o fiel cumplimiento": 30420,
+          "Contabilidad Y Finanzas": 78940,
+          "Equipo Administracion": 2000000,
+          "Gastos Comerciales": 5150383,
+          "Items De Oficina": 646200,
+          "Legal y Notarial": 187979,
+          "Otros Gastos Administración": 594807,
+          "Plataformas Administracion": 491540,
+          "Previred": 3222127,
+          "Ret. Imp. Único Trab. Art. 74 N 1 LIR (auto)": 110591
+        },
+        "cv_detail": {
+          "Bonos": 1105765,
+          "Mantención Y Mejoras Planta": 1177446,
+          "Otros Costos Variables": 70200,
+          "Otros Costos de Producción": 1054600,
+          "Packaging": 1437790,
+          "Registros Y Certificaciones": 275473,
+          "Seguros Y Seguridad": 91500,
+          "Servicio de bodegaje": 353982
+        },
+        "tr_detail": {
+          "Costos Variables de Despachos A Clientes": 4942317
+        }
+      },
+      "2026-04": {
+        "ing": 51740755,
+        "mp": 18873393,
+        "tal": 0,
+        "cv": 5080956,
+        "tr": 1586300,
+        "cf": 4936482,
+        "gav": 9365176,
+        "gf": 1627754,
+        "oe": 203828,
+        "mb": 32867362,
+        "mn": 26200106,
+        "util": 10066866,
+        "cf_detail": {
+          "Arriendo Planta/Bodega": 754016,
+          "Costos Fijos de Despachos A Clientes": 541713,
+          "Depreciación": 30769,
+          "Equipo Operaciones": 2010146,
+          "Equipo Producción": 1350000,
+          "Plataforma LICITALAB": 249838
+        },
+        "gav_detail": {
+          "Certificados de fianza o fiel cumplimiento": 25357,
+          "Contabilidad Y Finanzas": 79030,
+          "Equipo Administracion": 2000000,
+          "Gastos Comerciales": 5182349,
+          "Items De Oficina": 839124,
+          "Legal y Notarial": 182979,
+          "Otros Gastos Administración": 643527,
+          "Plataformas Administracion": 408944,
+          "Previred": 3866
+        },
+        "cv_detail": {
+          "Mantención Y Mejoras Planta": 833820,
+          "Packaging": 3938647,
+          "Registros Y Certificaciones": 4600,
+          "Seguros Y Seguridad": 91500,
+          "Servicio de bodegaje": 212389
+        },
+        "tr_detail": {
+          "Costos Variables de Despachos A Clientes": 1586300
+        }
+      },
+      "2026-05": {
+        "ing": 8087600,
+        "mp": 897400,
+        "tal": 0,
+        "cv": 1049408,
+        "tr": 201681,
+        "cf": 30769,
+        "gav": 413619,
+        "gf": 24122,
+        "oe": 0,
+        "mb": 7190200,
+        "mn": 5939111,
+        "util": 5470601,
+        "cf_detail": {
+          "Depreciación": 30769
+        },
+        "gav_detail": {
+          "Items De Oficina": 254677,
+          "Plataformas Administracion": 158942
+        },
+        "cv_detail": {
+          "Mantención Y Mejoras Planta": 153686,
+          "Packaging": 804222,
+          "Seguros Y Seguridad": 91500
+        },
+        "tr_detail": {
+          "Costos Variables de Despachos A Clientes": 201681
+        }
       }
     }
   },
