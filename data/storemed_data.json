@@ -34,6 +34,13 @@
           "Equipo Operaciones": 2250000,
           "Plataforma LICITALAB": 96035
         },
+        "cv_detail": {
+          "Bonos": 250000,
+          "Mantención Y Mejoras Planta": 82000,
+          "Otros Costos de Producción": 176866,
+          "Packaging": 438375,
+          "Uniforme": 125820
+        },
         "gav_detail": {
           "Certificados de fianza o fiel cumplimiento": 802880,
           "Contabilidad Y Finanzas": 76302,
@@ -45,13 +52,6 @@
           "Plataformas Administracion": 1849247,
           "Previred": 1464874,
           "Ret. Imp. Único Trab. Art. 74 N 1 LIR (auto)": 73280
-        },
-        "cv_detail": {
-          "Bonos": 250000,
-          "Mantención Y Mejoras Planta": 82000,
-          "Otros Costos de Producción": 176866,
-          "Packaging": 438375,
-          "Uniforme": 125820
         },
         "tr_detail": {
           "Costos Variables de Despachos A Clientes": 4981488
@@ -77,6 +77,13 @@
           "Equipo Ventas": 1403508,
           "Plataforma LICITALAB": 96280
         },
+        "cv_detail": {
+          "Bonos": 592820,
+          "Mantención Y Mejoras Planta": 338771,
+          "Otros Costos de Producción": 984836,
+          "Packaging": 436990,
+          "Seguros Y Seguridad": 14663
+        },
         "gav_detail": {
           "Certificados de fianza o fiel cumplimiento": 264109,
           "Contabilidad Y Finanzas": 76213,
@@ -87,13 +94,6 @@
           "Plataformas Administracion": 373574,
           "Previred": 2384794,
           "Ret. Imp. Único Trab. Art. 74 N 1 LIR (auto)": 489998
-        },
-        "cv_detail": {
-          "Bonos": 592820,
-          "Mantención Y Mejoras Planta": 338771,
-          "Otros Costos de Producción": 984836,
-          "Packaging": 436990,
-          "Seguros Y Seguridad": 14663
         },
         "tr_detail": {
           "Costos Variables de Despachos A Clientes": 6929346
@@ -120,6 +120,13 @@
           "Equipo Ventas": 701754,
           "Plataforma LICITALAB": 194170
         },
+        "cv_detail": {
+          "Bonos": 322168,
+          "Mantención Y Mejoras Planta": 979900,
+          "Otros Costos de Producción": 880506,
+          "Packaging": 3843897,
+          "Seguros Y Seguridad": 14766
+        },
         "gav_detail": {
           "Certificados de fianza o fiel cumplimiento": 588554,
           "Contabilidad Y Finanzas": 76831,
@@ -131,13 +138,6 @@
           "Plataformas Administracion": 375710,
           "Previred": 2895453,
           "Ret. Imp. Único Trab. Art. 74 N 1 LIR (auto)": 539757
-        },
-        "cv_detail": {
-          "Bonos": 322168,
-          "Mantención Y Mejoras Planta": 979900,
-          "Otros Costos de Producción": 880506,
-          "Packaging": 3843897,
-          "Seguros Y Seguridad": 14766
         },
         "tr_detail": {
           "Costos Variables de Despachos A Clientes": 5844741
@@ -163,6 +163,13 @@
           "Equipo Producción": 1200000,
           "Plataforma LICITALAB": 243775
         },
+        "cv_detail": {
+          "Bonos": 160462,
+          "Mantención Y Mejoras Planta": 217582,
+          "Otros Costos de Producción": 564712,
+          "Packaging": 77760,
+          "Seguros Y Seguridad": 14831
+        },
         "gav_detail": {
           "Certificados de fianza o fiel cumplimiento": 291944,
           "Contabilidad Y Finanzas": 77300,
@@ -173,13 +180,6 @@
           "Plataformas Administracion": 389494,
           "Previred": 3351135,
           "Ret. Imp. Único Trab. Art. 74 N 1 LIR (auto)": 490114
-        },
-        "cv_detail": {
-          "Bonos": 160462,
-          "Mantención Y Mejoras Planta": 217582,
-          "Otros Costos de Producción": 564712,
-          "Packaging": 77760,
-          "Seguros Y Seguridad": 14831
         },
         "tr_detail": {
           "Costos Variables de Despachos A Clientes": 4837620
@@ -206,6 +206,13 @@
           "Equipo Ventas": 701754,
           "Plataforma LICITALAB": 244745
         },
+        "cv_detail": {
+          "Bonos": 329538,
+          "Mantención Y Mejoras Planta": 254773,
+          "Otros Costos de Producción": 640759,
+          "Packaging": 491696,
+          "Uniforme": 223158
+        },
         "gav_detail": {
           "Certificados de fianza o fiel cumplimiento": 206060,
           "Contabilidad Y Finanzas": 310653,
@@ -217,13 +224,6 @@
           "Plataformas Administracion": 297023,
           "Previred": 3518162,
           "Ret. Imp. Único Trab. Art. 74 N 1 LIR (auto)": 490371
-        },
-        "cv_detail": {
-          "Bonos": 329538,
-          "Mantención Y Mejoras Planta": 254773,
-          "Otros Costos de Producción": 640759,
-          "Packaging": 491696,
-          "Uniforme": 223158
         },
         "tr_detail": {
           "Costos Variables de Despachos A Clientes": 1448360
@@ -251,6 +251,12 @@
           "Equipo Ventas": 701754,
           "Plataforma LICITALAB": 245240
         },
+        "cv_detail": {
+          "Bonos": 475942,
+          "Mantención Y Mejoras Planta": 381454,
+          "Otros Costos de Producción": 622945,
+          "Packaging": 349760
+        },
         "gav_detail": {
           "Certificados de fianza o fiel cumplimiento": 895023,
           "Contabilidad Y Finanzas": 77874,
@@ -262,12 +268,6 @@
           "Plataformas Administracion": 415435,
           "Previred": 3523452,
           "Ret. Imp. Único Trab. Art. 74 N 1 LIR (auto)": 488287
-        },
-        "cv_detail": {
-          "Bonos": 475942,
-          "Mantención Y Mejoras Planta": 381454,
-          "Otros Costos de Producción": 622945,
-          "Packaging": 349760
         },
         "tr_detail": {
           "Costos Variables de Despachos A Clientes": 4590434
@@ -294,6 +294,15 @@
           "Equipo Ventas": 701754,
           "Plataforma LICITALAB": 245249
         },
+        "cv_detail": {
+          "Bonos": 778149,
+          "Mantención Y Mejoras Planta": 1313836,
+          "Otros Costos de Producción": 880774,
+          "Packaging": 5069285,
+          "Registros Y Certificaciones": 2300,
+          "Servicio de bodegaje": 87719,
+          "Uniforme": 44529
+        },
         "gav_detail": {
           "Certificados de fianza o fiel cumplimiento": 41630,
           "Contabilidad Y Finanzas": 77884,
@@ -305,15 +314,6 @@
           "Plataformas Administracion": 796581,
           "Previred": 3528699,
           "Ret. Imp. Único Trab. Art. 74 N 1 LIR (auto)": 487006
-        },
-        "cv_detail": {
-          "Bonos": 778149,
-          "Mantención Y Mejoras Planta": 1313836,
-          "Otros Costos de Producción": 880774,
-          "Packaging": 5069285,
-          "Registros Y Certificaciones": 2300,
-          "Servicio de bodegaje": 87719,
-          "Uniforme": 44529
         },
         "tr_detail": {
           "Costos Variables de Despachos A Clientes": 5393908
@@ -340,6 +340,14 @@
           "Equipo Ventas": 701754,
           "Plataforma LICITALAB": 245292
         },
+        "cv_detail": {
+          "Bonos": 628166,
+          "Mantención Y Mejoras Planta": 563281,
+          "Otros Costos de Producción": 1219316,
+          "Packaging": 208128,
+          "Registros Y Certificaciones": 77631,
+          "Servicio de bodegaje": 280702
+        },
         "gav_detail": {
           "Arriendo Oficina Virtual": 99000,
           "Contabilidad Y Finanzas": 77694,
@@ -350,14 +358,6 @@
           "Plataformas Administracion": 578986,
           "Previred": 3683084,
           "Ret. Imp. Único Trab. Art. 74 N 1 LIR (auto)": 490615
-        },
-        "cv_detail": {
-          "Bonos": 628166,
-          "Mantención Y Mejoras Planta": 563281,
-          "Otros Costos de Producción": 1219316,
-          "Packaging": 208128,
-          "Registros Y Certificaciones": 77631,
-          "Servicio de bodegaje": 280702
         },
         "tr_detail": {
           "Costos Variables de Despachos A Clientes": 6656206
@@ -384,6 +384,14 @@
           "Equipo Ventas": 701754,
           "Plataforma LICITALAB": 246785
         },
+        "cv_detail": {
+          "Bonos": 673983,
+          "Mantención Y Mejoras Planta": 1298403,
+          "Otros Costos de Producción": 890197,
+          "Packaging": 380205,
+          "Registros Y Certificaciones": 2300,
+          "Seguros Y Seguridad": 366000
+        },
         "gav_detail": {
           "Aguinaldo": 510936,
           "Certificados de fianza o fiel cumplimiento": 210624,
@@ -396,14 +404,6 @@
           "Plataformas Administracion": 52455,
           "Previred": 3888840,
           "Ret. Imp. Único Trab. Art. 74 N 1 LIR (auto)": 508819
-        },
-        "cv_detail": {
-          "Bonos": 673983,
-          "Mantención Y Mejoras Planta": 1298403,
-          "Otros Costos de Producción": 890197,
-          "Packaging": 380205,
-          "Registros Y Certificaciones": 2300,
-          "Seguros Y Seguridad": 366000
         },
         "tr_detail": {
           "Costos Variables de Despachos A Clientes": 4303165
@@ -431,6 +431,13 @@
           "Herramientas De Producción": 199254,
           "Plataforma LICITALAB": 247104
         },
+        "cv_detail": {
+          "Bonos": 603623,
+          "Mantención Y Mejoras Planta": 33606,
+          "Otros Costos Variables": 1302,
+          "Otros Costos de Producción": 801500,
+          "Packaging": 295530
+        },
         "gav_detail": {
           "Certificados de fianza o fiel cumplimiento": 144046,
           "Contabilidad Y Finanzas": 78312,
@@ -443,13 +450,6 @@
           "Plataformas Administracion": 1015221,
           "Previred": 3662130,
           "Ret. Imp. Único Trab. Art. 74 N 1 LIR (auto)": 481455
-        },
-        "cv_detail": {
-          "Bonos": 603623,
-          "Mantención Y Mejoras Planta": 33606,
-          "Otros Costos Variables": 1302,
-          "Otros Costos de Producción": 801500,
-          "Packaging": 295530
         },
         "tr_detail": {
           "Costos Variables de Despachos A Clientes": 3018852
@@ -477,6 +477,13 @@
           "Herramientas De Producción": 3990,
           "Plataforma LICITALAB": 247772
         },
+        "cv_detail": {
+          "Bonos": 612814,
+          "Mantención Y Mejoras Planta": 522001,
+          "Otros Costos de Producción": 954792,
+          "Packaging": 453724,
+          "Registros Y Certificaciones": 360949
+        },
         "gav_detail": {
           "Contabilidad Y Finanzas": 78565,
           "Equipo Administracion": 5000000,
@@ -488,13 +495,6 @@
           "Plataformas Administracion": 83861,
           "Previred": 3423533,
           "Ret. Imp. Único Trab. Art. 74 N 1 LIR (auto)": 460715
-        },
-        "cv_detail": {
-          "Bonos": 612814,
-          "Mantención Y Mejoras Planta": 522001,
-          "Otros Costos de Producción": 954792,
-          "Packaging": 453724,
-          "Registros Y Certificaciones": 360949
         },
         "tr_detail": {
           "Costos Variables de Despachos A Clientes": 4584756
@@ -522,6 +522,13 @@
           "Herramientas De Producción": 7286,
           "Plataforma LICITALAB": 248012
         },
+        "cv_detail": {
+          "Bonos": 393206,
+          "Mantención Y Mejoras Planta": 260980,
+          "Otros Costos de Producción": 798702,
+          "Packaging": 1530543,
+          "Registros Y Certificaciones": 764896
+        },
         "gav_detail": {
           "Aguinaldo": 210000,
           "Certificados de fianza o fiel cumplimiento": 552187,
@@ -535,13 +542,6 @@
           "Plataformas Administracion": 440213,
           "Previred": 3029704,
           "Ret. Imp. Único Trab. Art. 74 N 1 LIR (auto)": 441222
-        },
-        "cv_detail": {
-          "Bonos": 393206,
-          "Mantención Y Mejoras Planta": 260980,
-          "Otros Costos de Producción": 798702,
-          "Packaging": 1530543,
-          "Registros Y Certificaciones": 764896
         },
         "tr_detail": {
           "Costos Variables de Despachos A Clientes": 3211251
@@ -569,6 +569,13 @@
           "Equipo Ventas": 701754,
           "Plataforma LICITALAB": 96035
         },
+        "cv_detail": {
+          "Bonos": 581340,
+          "Mantención Y Mejoras Planta": 398635,
+          "Otros Costos de Producción": 176866,
+          "Packaging": 663975,
+          "Uniforme": 125820
+        },
         "gav_detail": {
           "Certificados de fianza o fiel cumplimiento": 132935,
           "Contabilidad Y Finanzas": 76302,
@@ -580,13 +587,6 @@
           "Plataformas Administracion": 496808,
           "Previred": 1464874,
           "Ret. Imp. Único Trab. Art. 74 N 1 LIR (auto)": 73280
-        },
-        "cv_detail": {
-          "Bonos": 581340,
-          "Mantención Y Mejoras Planta": 398635,
-          "Otros Costos de Producción": 176866,
-          "Packaging": 663975,
-          "Uniforme": 125820
         },
         "tr_detail": {
           "Costos Variables de Despachos A Clientes": 8129109
@@ -612,6 +612,13 @@
           "Equipo Ventas": 701754,
           "Plataforma LICITALAB": 96280
         },
+        "cv_detail": {
+          "Bonos": 261480,
+          "Mantención Y Mejoras Planta": 655406,
+          "Otros Costos de Producción": 984836,
+          "Packaging": 436990,
+          "Seguros Y Seguridad": 14663
+        },
         "gav_detail": {
           "Certificados de fianza o fiel cumplimiento": 934054,
           "Contabilidad Y Finanzas": 76213,
@@ -623,13 +630,6 @@
           "Plataformas Administracion": 496523,
           "Previred": 2384794,
           "Ret. Imp. Único Trab. Art. 74 N 1 LIR (auto)": 489998
-        },
-        "cv_detail": {
-          "Bonos": 261480,
-          "Mantención Y Mejoras Planta": 655406,
-          "Otros Costos de Producción": 984836,
-          "Packaging": 436990,
-          "Seguros Y Seguridad": 14663
         },
         "tr_detail": {
           "Costos Variables de Despachos A Clientes": 6929346
@@ -656,6 +656,13 @@
           "Equipo Ventas": 701754,
           "Plataforma LICITALAB": 194170
         },
+        "cv_detail": {
+          "Bonos": 322168,
+          "Mantención Y Mejoras Planta": 406624,
+          "Otros Costos de Producción": 880506,
+          "Packaging": 1752522,
+          "Seguros Y Seguridad": 14766
+        },
         "gav_detail": {
           "Certificados de fianza o fiel cumplimiento": 313459,
           "Contabilidad Y Finanzas": 76831,
@@ -667,13 +674,6 @@
           "Plataformas Administracion": 498659,
           "Previred": 2895453,
           "Ret. Imp. Único Trab. Art. 74 N 1 LIR (auto)": 539757
-        },
-        "cv_detail": {
-          "Bonos": 322168,
-          "Mantención Y Mejoras Planta": 406624,
-          "Otros Costos de Producción": 880506,
-          "Packaging": 1752522,
-          "Seguros Y Seguridad": 14766
         },
         "tr_detail": {
           "Costos Variables de Despachos A Clientes": 5844741
@@ -700,6 +700,13 @@
           "Equipo Ventas": 701754,
           "Plataforma LICITALAB": 243775
         },
+        "cv_detail": {
+          "Bonos": 256667,
+          "Mantención Y Mejoras Planta": 758993,
+          "Otros Costos de Producción": 564712,
+          "Packaging": 774885,
+          "Seguros Y Seguridad": 14831
+        },
         "gav_detail": {
           "Certificados de fianza o fiel cumplimiento": 567039,
           "Contabilidad Y Finanzas": 77300,
@@ -710,13 +717,6 @@
           "Plataformas Administracion": 512443,
           "Previred": 3351135,
           "Ret. Imp. Único Trab. Art. 74 N 1 LIR (auto)": 490114
-        },
-        "cv_detail": {
-          "Bonos": 256667,
-          "Mantención Y Mejoras Planta": 758993,
-          "Otros Costos de Producción": 564712,
-          "Packaging": 774885,
-          "Seguros Y Seguridad": 14831
         },
         "tr_detail": {
           "Costos Variables de Despachos A Clientes": 4837620
@@ -743,6 +743,13 @@
           "Equipo Ventas": 701754,
           "Plataforma LICITALAB": 244745
         },
+        "cv_detail": {
+          "Bonos": 476183,
+          "Mantención Y Mejoras Planta": 286638,
+          "Otros Costos de Producción": 640759,
+          "Packaging": 1188821,
+          "Uniforme": 223158
+        },
         "gav_detail": {
           "Certificados de fianza o fiel cumplimiento": 206060,
           "Contabilidad Y Finanzas": 310653,
@@ -754,13 +761,6 @@
           "Plataformas Administracion": 419972,
           "Previred": 3518162,
           "Ret. Imp. Único Trab. Art. 74 N 1 LIR (auto)": 490371
-        },
-        "cv_detail": {
-          "Bonos": 476183,
-          "Mantención Y Mejoras Planta": 286638,
-          "Otros Costos de Producción": 640759,
-          "Packaging": 1188821,
-          "Uniforme": 223158
         },
         "tr_detail": {
           "Costos Variables de Despachos A Clientes": 4855395
@@ -788,6 +788,12 @@
           "Equipo Ventas": 701754,
           "Plataforma LICITALAB": 245240
         },
+        "cv_detail": {
+          "Bonos": 777718,
+          "Mantención Y Mejoras Planta": 381454,
+          "Otros Costos de Producción": 622945,
+          "Packaging": 774885
+        },
         "gav_detail": {
           "Certificados de fianza o fiel cumplimiento": 895023,
           "Contabilidad Y Finanzas": 77874,
@@ -799,12 +805,6 @@
           "Plataformas Administracion": 1036514,
           "Previred": 3523452,
           "Ret. Imp. Único Trab. Art. 74 N 1 LIR (auto)": 488287
-        },
-        "cv_detail": {
-          "Bonos": 777718,
-          "Mantención Y Mejoras Planta": 381454,
-          "Otros Costos de Producción": 622945,
-          "Packaging": 774885
         },
         "tr_detail": {
           "Costos Variables de Despachos A Clientes": 5542145
@@ -832,6 +832,15 @@
           "Equipo Ventas": 701754,
           "Plataforma LICITALAB": 245249
         },
+        "cv_detail": {
+          "Bonos": 611689,
+          "Mantención Y Mejoras Planta": 1013836,
+          "Otros Costos de Producción": 1173399,
+          "Packaging": 2420845,
+          "Registros Y Certificaciones": 2300,
+          "Servicio de bodegaje": 87719,
+          "Uniforme": 44529
+        },
         "gav_detail": {
           "Certificados de fianza o fiel cumplimiento": 41630,
           "Contabilidad Y Finanzas": 77884,
@@ -843,15 +852,6 @@
           "Plataformas Administracion": 503271,
           "Previred": 3528699,
           "Ret. Imp. Único Trab. Art. 74 N 1 LIR (auto)": 487006
-        },
-        "cv_detail": {
-          "Bonos": 611689,
-          "Mantención Y Mejoras Planta": 1013836,
-          "Otros Costos de Producción": 1173399,
-          "Packaging": 2420845,
-          "Registros Y Certificaciones": 2300,
-          "Servicio de bodegaje": 87719,
-          "Uniforme": 44529
         },
         "tr_detail": {
           "Costos Variables de Despachos A Clientes": 6756583
@@ -879,6 +879,14 @@
           "Equipo Ventas": 701754,
           "Plataforma LICITALAB": 245292
         },
+        "cv_detail": {
+          "Bonos": 673983,
+          "Mantención Y Mejoras Planta": 713281,
+          "Otros Costos de Producción": 926691,
+          "Packaging": 1668348,
+          "Registros Y Certificaciones": 77631,
+          "Servicio de bodegaje": 280702
+        },
         "gav_detail": {
           "Arriendo Oficina Virtual": 99000,
           "Contabilidad Y Finanzas": 77694,
@@ -889,14 +897,6 @@
           "Plataformas Administracion": 620064,
           "Previred": 3683084,
           "Ret. Imp. Único Trab. Art. 74 N 1 LIR (auto)": 490615
-        },
-        "cv_detail": {
-          "Bonos": 673983,
-          "Mantención Y Mejoras Planta": 713281,
-          "Otros Costos de Producción": 926691,
-          "Packaging": 1668348,
-          "Registros Y Certificaciones": 77631,
-          "Servicio de bodegaje": 280702
         },
         "tr_detail": {
           "Costos Variables de Despachos A Clientes": 4141888
@@ -924,6 +924,14 @@
           "Equipo Ventas": 701754,
           "Plataforma LICITALAB": 246785
         },
+        "cv_detail": {
+          "Bonos": 603623,
+          "Mantención Y Mejoras Planta": 944201,
+          "Otros Costos de Producción": 890197,
+          "Packaging": 1840425,
+          "Registros Y Certificaciones": 2300,
+          "Seguros Y Seguridad": 91500
+        },
         "gav_detail": {
           "Aguinaldo": 510936,
           "Certificados de fianza o fiel cumplimiento": 210624,
@@ -936,14 +944,6 @@
           "Plataformas Administracion": 175404,
           "Previred": 3896785,
           "Ret. Imp. Único Trab. Art. 74 N 1 LIR (auto)": 508819
-        },
-        "cv_detail": {
-          "Bonos": 603623,
-          "Mantención Y Mejoras Planta": 944201,
-          "Otros Costos de Producción": 890197,
-          "Packaging": 1840425,
-          "Registros Y Certificaciones": 2300,
-          "Seguros Y Seguridad": 91500
         },
         "tr_detail": {
           "Costos Variables de Despachos A Clientes": 2992688
@@ -972,6 +972,14 @@
           "Herramientas De Producción": 199254,
           "Plataforma LICITALAB": 247104
         },
+        "cv_detail": {
+          "Bonos": 745855,
+          "Mantención Y Mejoras Planta": 537808,
+          "Otros Costos Variables": 1302,
+          "Otros Costos de Producción": 801500,
+          "Packaging": 295530,
+          "Seguros Y Seguridad": 91500
+        },
         "gav_detail": {
           "Certificados de fianza o fiel cumplimiento": 144046,
           "Contabilidad Y Finanzas": 78312,
@@ -984,14 +992,6 @@
           "Plataformas Administracion": 718381,
           "Previred": 3670049,
           "Ret. Imp. Único Trab. Art. 74 N 1 LIR (auto)": 481455
-        },
-        "cv_detail": {
-          "Bonos": 745855,
-          "Mantención Y Mejoras Planta": 537808,
-          "Otros Costos Variables": 1302,
-          "Otros Costos de Producción": 801500,
-          "Packaging": 295530,
-          "Seguros Y Seguridad": 91500
         },
         "tr_detail": {
           "Costos Variables de Despachos A Clientes": 5087008
@@ -1020,6 +1020,14 @@
           "Herramientas De Producción": 3990,
           "Plataforma LICITALAB": 247772
         },
+        "cv_detail": {
+          "Bonos": 309730,
+          "Mantención Y Mejoras Planta": 261002,
+          "Otros Costos de Producción": 954792,
+          "Packaging": 453724,
+          "Registros Y Certificaciones": 360949,
+          "Seguros Y Seguridad": 91500
+        },
         "gav_detail": {
           "Contabilidad Y Finanzas": 78565,
           "Equipo Administracion": 5000000,
@@ -1031,14 +1039,6 @@
           "Plataformas Administracion": 646589,
           "Previred": 3431462,
           "Ret. Imp. Único Trab. Art. 74 N 1 LIR (auto)": 460715
-        },
-        "cv_detail": {
-          "Bonos": 309730,
-          "Mantención Y Mejoras Planta": 261002,
-          "Otros Costos de Producción": 954792,
-          "Packaging": 453724,
-          "Registros Y Certificaciones": 360949,
-          "Seguros Y Seguridad": 91500
         },
         "tr_detail": {
           "Costos Variables de Despachos A Clientes": 2934501
@@ -1067,6 +1067,14 @@
           "Herramientas De Producción": 7286,
           "Plataforma LICITALAB": 248012
         },
+        "cv_detail": {
+          "Bonos": 495420,
+          "Mantención Y Mejoras Planta": 521979,
+          "Otros Costos de Producción": 798702,
+          "Packaging": 1530543,
+          "Registros Y Certificaciones": 764896,
+          "Seguros Y Seguridad": 91500
+        },
         "gav_detail": {
           "Aguinaldo": 210000,
           "Certificados de fianza o fiel cumplimiento": 552187,
@@ -1080,14 +1088,6 @@
           "Plataformas Administracion": 625768,
           "Previred": 3037649,
           "Ret. Imp. Único Trab. Art. 74 N 1 LIR (auto)": 441222
-        },
-        "cv_detail": {
-          "Bonos": 495420,
-          "Mantención Y Mejoras Planta": 521979,
-          "Otros Costos de Producción": 798702,
-          "Packaging": 1530543,
-          "Registros Y Certificaciones": 764896,
-          "Seguros Y Seguridad": 91500
         },
         "tr_detail": {
           "Costos Variables de Despachos A Clientes": 4522583
@@ -1115,6 +1115,13 @@
           "Equipo Ventas": 701754,
           "Plataforma LICITALAB": 96035
         },
+        "cv_detail": {
+          "Bonos": 581340,
+          "Mantención Y Mejoras Planta": 398635,
+          "Otros Costos de Producción": 176866,
+          "Packaging": 663975,
+          "Uniforme": 125820
+        },
         "gav_detail": {
           "Certificados de fianza o fiel cumplimiento": 132935,
           "Contabilidad Y Finanzas": 76302,
@@ -1126,13 +1133,6 @@
           "Plataformas Administracion": 496808,
           "Previred": 1464874,
           "Ret. Imp. Único Trab. Art. 74 N 1 LIR (auto)": 73280
-        },
-        "cv_detail": {
-          "Bonos": 581340,
-          "Mantención Y Mejoras Planta": 398635,
-          "Otros Costos de Producción": 176866,
-          "Packaging": 663975,
-          "Uniforme": 125820
         },
         "tr_detail": {
           "Costos Variables de Despachos A Clientes": 8129109
@@ -1158,6 +1158,13 @@
           "Equipo Ventas": 701754,
           "Plataforma LICITALAB": 96280
         },
+        "cv_detail": {
+          "Bonos": 261480,
+          "Mantención Y Mejoras Planta": 655406,
+          "Otros Costos de Producción": 984836,
+          "Packaging": 436990,
+          "Seguros Y Seguridad": 14663
+        },
         "gav_detail": {
           "Certificados de fianza o fiel cumplimiento": 934054,
           "Contabilidad Y Finanzas": 76213,
@@ -1169,13 +1176,6 @@
           "Plataformas Administracion": 496523,
           "Previred": 2384794,
           "Ret. Imp. Único Trab. Art. 74 N 1 LIR (auto)": 489998
-        },
-        "cv_detail": {
-          "Bonos": 261480,
-          "Mantención Y Mejoras Planta": 655406,
-          "Otros Costos de Producción": 984836,
-          "Packaging": 436990,
-          "Seguros Y Seguridad": 14663
         },
         "tr_detail": {
           "Costos Variables de Despachos A Clientes": 6929346
@@ -1202,6 +1202,13 @@
           "Equipo Ventas": 701754,
           "Plataforma LICITALAB": 194170
         },
+        "cv_detail": {
+          "Bonos": 322168,
+          "Mantención Y Mejoras Planta": 406624,
+          "Otros Costos de Producción": 880506,
+          "Packaging": 1752522,
+          "Seguros Y Seguridad": 14766
+        },
         "gav_detail": {
           "Certificados de fianza o fiel cumplimiento": 313459,
           "Contabilidad Y Finanzas": 76831,
@@ -1213,13 +1220,6 @@
           "Plataformas Administracion": 498659,
           "Previred": 2895453,
           "Ret. Imp. Único Trab. Art. 74 N 1 LIR (auto)": 539757
-        },
-        "cv_detail": {
-          "Bonos": 322168,
-          "Mantención Y Mejoras Planta": 406624,
-          "Otros Costos de Producción": 880506,
-          "Packaging": 1752522,
-          "Seguros Y Seguridad": 14766
         },
         "tr_detail": {
           "Costos Variables de Despachos A Clientes": 5844741
@@ -1246,6 +1246,13 @@
           "Equipo Ventas": 701754,
           "Plataforma LICITALAB": 243775
         },
+        "cv_detail": {
+          "Bonos": 256667,
+          "Mantención Y Mejoras Planta": 758993,
+          "Otros Costos de Producción": 564712,
+          "Packaging": 774885,
+          "Seguros Y Seguridad": 14831
+        },
         "gav_detail": {
           "Certificados de fianza o fiel cumplimiento": 567039,
           "Contabilidad Y Finanzas": 77300,
@@ -1256,13 +1263,6 @@
           "Plataformas Administracion": 512443,
           "Previred": 3351135,
           "Ret. Imp. Único Trab. Art. 74 N 1 LIR (auto)": 490114
-        },
-        "cv_detail": {
-          "Bonos": 256667,
-          "Mantención Y Mejoras Planta": 758993,
-          "Otros Costos de Producción": 564712,
-          "Packaging": 774885,
-          "Seguros Y Seguridad": 14831
         },
         "tr_detail": {
           "Costos Variables de Despachos A Clientes": 4837620
@@ -1289,6 +1289,13 @@
           "Equipo Ventas": 701754,
           "Plataforma LICITALAB": 244745
         },
+        "cv_detail": {
+          "Bonos": 476183,
+          "Mantención Y Mejoras Planta": 286638,
+          "Otros Costos de Producción": 640759,
+          "Packaging": 1188821,
+          "Uniforme": 223158
+        },
         "gav_detail": {
           "Certificados de fianza o fiel cumplimiento": 206060,
           "Contabilidad Y Finanzas": 310653,
@@ -1300,13 +1307,6 @@
           "Plataformas Administracion": 419972,
           "Previred": 3518162,
           "Ret. Imp. Único Trab. Art. 74 N 1 LIR (auto)": 490371
-        },
-        "cv_detail": {
-          "Bonos": 476183,
-          "Mantención Y Mejoras Planta": 286638,
-          "Otros Costos de Producción": 640759,
-          "Packaging": 1188821,
-          "Uniforme": 223158
         },
         "tr_detail": {
           "Costos Variables de Despachos A Clientes": 4855395
@@ -1334,6 +1334,12 @@
           "Equipo Ventas": 701754,
           "Plataforma LICITALAB": 245240
         },
+        "cv_detail": {
+          "Bonos": 777718,
+          "Mantención Y Mejoras Planta": 381454,
+          "Otros Costos de Producción": 622945,
+          "Packaging": 774885
+        },
         "gav_detail": {
           "Certificados de fianza o fiel cumplimiento": 895023,
           "Contabilidad Y Finanzas": 77874,
@@ -1345,12 +1351,6 @@
           "Plataformas Administracion": 1036514,
           "Previred": 3523452,
           "Ret. Imp. Único Trab. Art. 74 N 1 LIR (auto)": 488287
-        },
-        "cv_detail": {
-          "Bonos": 777718,
-          "Mantención Y Mejoras Planta": 381454,
-          "Otros Costos de Producción": 622945,
-          "Packaging": 774885
         },
         "tr_detail": {
           "Costos Variables de Despachos A Clientes": 5542145
@@ -1378,6 +1378,15 @@
           "Equipo Ventas": 701754,
           "Plataforma LICITALAB": 245249
         },
+        "cv_detail": {
+          "Bonos": 611689,
+          "Mantención Y Mejoras Planta": 1013836,
+          "Otros Costos de Producción": 1173399,
+          "Packaging": 2420845,
+          "Registros Y Certificaciones": 2300,
+          "Servicio de bodegaje": 87719,
+          "Uniforme": 44529
+        },
         "gav_detail": {
           "Certificados de fianza o fiel cumplimiento": 41630,
           "Contabilidad Y Finanzas": 77884,
@@ -1389,15 +1398,6 @@
           "Plataformas Administracion": 503271,
           "Previred": 3528699,
           "Ret. Imp. Único Trab. Art. 74 N 1 LIR (auto)": 487006
-        },
-        "cv_detail": {
-          "Bonos": 611689,
-          "Mantención Y Mejoras Planta": 1013836,
-          "Otros Costos de Producción": 1173399,
-          "Packaging": 2420845,
-          "Registros Y Certificaciones": 2300,
-          "Servicio de bodegaje": 87719,
-          "Uniforme": 44529
         },
         "tr_detail": {
           "Costos Variables de Despachos A Clientes": 6756583
@@ -1425,6 +1425,14 @@
           "Equipo Ventas": 701754,
           "Plataforma LICITALAB": 245292
         },
+        "cv_detail": {
+          "Bonos": 673983,
+          "Mantención Y Mejoras Planta": 713281,
+          "Otros Costos de Producción": 926691,
+          "Packaging": 1668348,
+          "Registros Y Certificaciones": 77631,
+          "Servicio de bodegaje": 280702
+        },
         "gav_detail": {
           "Arriendo Oficina Virtual": 99000,
           "Contabilidad Y Finanzas": 77694,
@@ -1435,14 +1443,6 @@
           "Plataformas Administracion": 620064,
           "Previred": 3683084,
           "Ret. Imp. Único Trab. Art. 74 N 1 LIR (auto)": 490615
-        },
-        "cv_detail": {
-          "Bonos": 673983,
-          "Mantención Y Mejoras Planta": 713281,
-          "Otros Costos de Producción": 926691,
-          "Packaging": 1668348,
-          "Registros Y Certificaciones": 77631,
-          "Servicio de bodegaje": 280702
         },
         "tr_detail": {
           "Costos Variables de Despachos A Clientes": 4141888
@@ -1470,6 +1470,14 @@
           "Equipo Ventas": 701754,
           "Plataforma LICITALAB": 246785
         },
+        "cv_detail": {
+          "Bonos": 603623,
+          "Mantención Y Mejoras Planta": 944201,
+          "Otros Costos de Producción": 890197,
+          "Packaging": 1840425,
+          "Registros Y Certificaciones": 2300,
+          "Seguros Y Seguridad": 91500
+        },
         "gav_detail": {
           "Aguinaldo": 510936,
           "Certificados de fianza o fiel cumplimiento": 210624,
@@ -1482,14 +1490,6 @@
           "Plataformas Administracion": 175404,
           "Previred": 3896785,
           "Ret. Imp. Único Trab. Art. 74 N 1 LIR (auto)": 508819
-        },
-        "cv_detail": {
-          "Bonos": 603623,
-          "Mantención Y Mejoras Planta": 944201,
-          "Otros Costos de Producción": 890197,
-          "Packaging": 1840425,
-          "Registros Y Certificaciones": 2300,
-          "Seguros Y Seguridad": 91500
         },
         "tr_detail": {
           "Costos Variables de Despachos A Clientes": 2992688
@@ -1518,6 +1518,14 @@
           "Herramientas De Producción": 199254,
           "Plataforma LICITALAB": 247104
         },
+        "cv_detail": {
+          "Bonos": 745855,
+          "Mantención Y Mejoras Planta": 537808,
+          "Otros Costos Variables": 1302,
+          "Otros Costos de Producción": 801500,
+          "Packaging": 295530,
+          "Seguros Y Seguridad": 91500
+        },
         "gav_detail": {
           "Certificados de fianza o fiel cumplimiento": 144046,
           "Contabilidad Y Finanzas": 78312,
@@ -1530,14 +1538,6 @@
           "Plataformas Administracion": 718381,
           "Previred": 3670049,
           "Ret. Imp. Único Trab. Art. 74 N 1 LIR (auto)": 481455
-        },
-        "cv_detail": {
-          "Bonos": 745855,
-          "Mantención Y Mejoras Planta": 537808,
-          "Otros Costos Variables": 1302,
-          "Otros Costos de Producción": 801500,
-          "Packaging": 295530,
-          "Seguros Y Seguridad": 91500
         },
         "tr_detail": {
           "Costos Variables de Despachos A Clientes": 5087008
@@ -1566,6 +1566,14 @@
           "Herramientas De Producción": 3990,
           "Plataforma LICITALAB": 247772
         },
+        "cv_detail": {
+          "Bonos": 309730,
+          "Mantención Y Mejoras Planta": 261002,
+          "Otros Costos de Producción": 954792,
+          "Packaging": 453724,
+          "Registros Y Certificaciones": 360949,
+          "Seguros Y Seguridad": 91500
+        },
         "gav_detail": {
           "Contabilidad Y Finanzas": 78565,
           "Equipo Administracion": 5000000,
@@ -1577,14 +1585,6 @@
           "Plataformas Administracion": 646589,
           "Previred": 3431462,
           "Ret. Imp. Único Trab. Art. 74 N 1 LIR (auto)": 460715
-        },
-        "cv_detail": {
-          "Bonos": 309730,
-          "Mantención Y Mejoras Planta": 261002,
-          "Otros Costos de Producción": 954792,
-          "Packaging": 453724,
-          "Registros Y Certificaciones": 360949,
-          "Seguros Y Seguridad": 91500
         },
         "tr_detail": {
           "Costos Variables de Despachos A Clientes": 2934501
@@ -1613,6 +1613,14 @@
           "Herramientas De Producción": 7286,
           "Plataforma LICITALAB": 248012
         },
+        "cv_detail": {
+          "Bonos": 495420,
+          "Mantención Y Mejoras Planta": 521979,
+          "Otros Costos de Producción": 798702,
+          "Packaging": 1530543,
+          "Registros Y Certificaciones": 764896,
+          "Seguros Y Seguridad": 91500
+        },
         "gav_detail": {
           "Aguinaldo": 210000,
           "Certificados de fianza o fiel cumplimiento": 552187,
@@ -1626,14 +1634,6 @@
           "Plataformas Administracion": 625768,
           "Previred": 3037649,
           "Ret. Imp. Único Trab. Art. 74 N 1 LIR (auto)": 441222
-        },
-        "cv_detail": {
-          "Bonos": 495420,
-          "Mantención Y Mejoras Planta": 521979,
-          "Otros Costos de Producción": 798702,
-          "Packaging": 1530543,
-          "Registros Y Certificaciones": 764896,
-          "Seguros Y Seguridad": 91500
         },
         "tr_detail": {
           "Costos Variables de Despachos A Clientes": 4522583
@@ -1670,6 +1670,13 @@
           "Equipo Producción": 1350001,
           "Plataforma LICITALAB": 248355
         },
+        "cv_detail": {
+          "Bonos": 50564,
+          "Mantención Y Mejoras Planta": 150000,
+          "Otros Costos de Producción": 951113,
+          "Packaging": 293733,
+          "Registros Y Certificaciones": 18400
+        },
         "gav_detail": {
           "Certificados de fianza o fiel cumplimiento": 198536,
           "Contabilidad Y Finanzas": 78813,
@@ -1681,13 +1688,6 @@
           "Plataformas Administracion": 1044718,
           "Previred": 3135011,
           "Ret. Imp. Único Trab. Art. 74 N 1 LIR (auto)": 110836
-        },
-        "cv_detail": {
-          "Bonos": 50564,
-          "Mantención Y Mejoras Planta": 150000,
-          "Otros Costos de Producción": 951113,
-          "Packaging": 293733,
-          "Registros Y Certificaciones": 18400
         },
         "tr_detail": {
           "Costos Variables de Despachos A Clientes": 1653694
@@ -1715,6 +1715,13 @@
           "Herramientas De Producción": 25373,
           "Plataforma LICITALAB": 248373
         },
+        "cv_detail": {
+          "Bonos": 529756,
+          "Otros Costos de Producción": 1006683,
+          "Packaging": 105000,
+          "Registros Y Certificaciones": 283163,
+          "Uniforme": 20394
+        },
         "gav_detail": {
           "Contabilidad Y Finanzas": 78745,
           "Equipo Administracion": 2000000,
@@ -1725,13 +1732,6 @@
           "Plataformas Administracion": 250002,
           "Previred": 3243635,
           "Ret. Imp. Único Trab. Art. 74 N 1 LIR (auto)": 111074
-        },
-        "cv_detail": {
-          "Bonos": 529756,
-          "Otros Costos de Producción": 1006683,
-          "Packaging": 105000,
-          "Registros Y Certificaciones": 283163,
-          "Uniforme": 20394
         },
         "tr_detail": {
           "Costos Variables de Despachos A Clientes": 5253852
@@ -1759,6 +1759,14 @@
           "Herramientas De Producción": 40466,
           "Plataforma LICITALAB": 249011
         },
+        "cv_detail": {
+          "Bonos": 892341,
+          "Mantención Y Mejoras Planta": 1584574,
+          "Otros Costos Variables": 70200,
+          "Otros Costos de Producción": 141593,
+          "Packaging": 894337,
+          "Servicio de bodegaje": 353982
+        },
         "gav_detail": {
           "Certificados de fianza o fiel cumplimiento": 30420,
           "Contabilidad Y Finanzas": 78940,
@@ -1770,14 +1778,6 @@
           "Plataformas Administracion": 332598,
           "Previred": 3222127,
           "Ret. Imp. Único Trab. Art. 74 N 1 LIR (auto)": 110591
-        },
-        "cv_detail": {
-          "Bonos": 892341,
-          "Mantención Y Mejoras Planta": 1584574,
-          "Otros Costos Variables": 70200,
-          "Otros Costos de Producción": 141593,
-          "Packaging": 894337,
-          "Servicio de bodegaje": 353982
         },
         "tr_detail": {
           "Costos Variables de Despachos A Clientes": 6959116
@@ -1804,6 +1804,14 @@
           "Equipo Ventas": 701754,
           "Plataforma LICITALAB": 249838
         },
+        "cv_detail": {
+          "Bonos": 871050,
+          "Mantención Y Mejoras Planta": 580378,
+          "Otros Costos de Producción": 1054600,
+          "Packaging": 4742869,
+          "Registros Y Certificaciones": 4600,
+          "Servicio de bodegaje": 212389
+        },
         "gav_detail": {
           "Certificados de fianza o fiel cumplimiento": 25357,
           "Contabilidad Y Finanzas": 79030,
@@ -1814,14 +1822,6 @@
           "Otros Gastos Administración": 643527,
           "Plataformas Administracion": 250002,
           "Previred": 3866
-        },
-        "cv_detail": {
-          "Bonos": 871050,
-          "Mantención Y Mejoras Planta": 580378,
-          "Otros Costos de Producción": 1054600,
-          "Packaging": 4742869,
-          "Registros Y Certificaciones": 4600,
-          "Servicio de bodegaje": 212389
         },
         "tr_detail": {
           "Costos Variables de Despachos A Clientes": 4575332
@@ -1865,6 +1865,14 @@
           "Equipo Ventas": 767219,
           "Plataforma LICITALAB": 248355
         },
+        "cv_detail": {
+          "Bonos": 345549,
+          "Mantención Y Mejoras Planta": 671979,
+          "Otros Costos de Producción": 1305095,
+          "Packaging": 1098512,
+          "Registros Y Certificaciones": 16100,
+          "Seguros Y Seguridad": 91500
+        },
         "gav_detail": {
           "Certificados de fianza o fiel cumplimiento": 198536,
           "Contabilidad Y Finanzas": 78813,
@@ -1877,14 +1885,6 @@
           "Plataformas Administracion": 408950,
           "Previred": 3135011,
           "Ret. Imp. Único Trab. Art. 74 N 1 LIR (auto)": 110836
-        },
-        "cv_detail": {
-          "Bonos": 345549,
-          "Mantención Y Mejoras Planta": 671979,
-          "Otros Costos de Producción": 1305095,
-          "Packaging": 1098512,
-          "Registros Y Certificaciones": 16100,
-          "Seguros Y Seguridad": 91500
         },
         "tr_detail": {
           "Costos Variables de Despachos A Clientes": 4637487
@@ -1913,6 +1913,15 @@
           "Herramientas De Producción": 25373,
           "Plataforma LICITALAB": 248373
         },
+        "cv_detail": {
+          "Bonos": 892397,
+          "Mantención Y Mejoras Planta": 260980,
+          "Otros Costos de Producción": 794294,
+          "Packaging": 648453,
+          "Registros Y Certificaciones": 9990,
+          "Seguros Y Seguridad": 91500,
+          "Uniforme": 20394
+        },
         "gav_detail": {
           "Contabilidad Y Finanzas": 78745,
           "Equipo Administracion": 2000000,
@@ -1923,15 +1932,6 @@
           "Plataformas Administracion": 408944,
           "Previred": 3243635,
           "Ret. Imp. Único Trab. Art. 74 N 1 LIR (auto)": 111074
-        },
-        "cv_detail": {
-          "Bonos": 892397,
-          "Mantención Y Mejoras Planta": 260980,
-          "Otros Costos de Producción": 794294,
-          "Packaging": 648453,
-          "Registros Y Certificaciones": 9990,
-          "Seguros Y Seguridad": 91500,
-          "Uniforme": 20394
         },
         "tr_detail": {
           "Costos Variables de Despachos A Clientes": 7522165
@@ -1960,6 +1960,16 @@
           "Herramientas De Producción": 40466,
           "Plataforma LICITALAB": 249011
         },
+        "cv_detail": {
+          "Bonos": 1105765,
+          "Mantención Y Mejoras Planta": 1177446,
+          "Otros Costos Variables": 70200,
+          "Otros Costos de Producción": 1054600,
+          "Packaging": 1437790,
+          "Registros Y Certificaciones": 275473,
+          "Seguros Y Seguridad": 91500,
+          "Servicio de bodegaje": 353982
+        },
         "gav_detail": {
           "Certificados de fianza o fiel cumplimiento": 30420,
           "Contabilidad Y Finanzas": 78940,
@@ -1971,16 +1981,6 @@
           "Plataformas Administracion": 491540,
           "Previred": 3222127,
           "Ret. Imp. Único Trab. Art. 74 N 1 LIR (auto)": 110591
-        },
-        "cv_detail": {
-          "Bonos": 1105765,
-          "Mantención Y Mejoras Planta": 1177446,
-          "Otros Costos Variables": 70200,
-          "Otros Costos de Producción": 1054600,
-          "Packaging": 1437790,
-          "Registros Y Certificaciones": 275473,
-          "Seguros Y Seguridad": 91500,
-          "Servicio de bodegaje": 353982
         },
         "tr_detail": {
           "Costos Variables de Despachos A Clientes": 4942317
@@ -2007,6 +2007,13 @@
           "Equipo Producción": 1350000,
           "Plataforma LICITALAB": 249838
         },
+        "cv_detail": {
+          "Mantención Y Mejoras Planta": 833820,
+          "Packaging": 3938647,
+          "Registros Y Certificaciones": 4600,
+          "Seguros Y Seguridad": 91500,
+          "Servicio de bodegaje": 212389
+        },
         "gav_detail": {
           "Certificados de fianza o fiel cumplimiento": 25357,
           "Contabilidad Y Finanzas": 79030,
@@ -2017,13 +2024,6 @@
           "Otros Gastos Administración": 643527,
           "Plataformas Administracion": 408944,
           "Previred": 3866
-        },
-        "cv_detail": {
-          "Mantención Y Mejoras Planta": 833820,
-          "Packaging": 3938647,
-          "Registros Y Certificaciones": 4600,
-          "Seguros Y Seguridad": 91500,
-          "Servicio de bodegaje": 212389
         },
         "tr_detail": {
           "Costos Variables de Despachos A Clientes": 1586300
@@ -2045,14 +2045,14 @@
         "cf_detail": {
           "Depreciación": 30769
         },
-        "gav_detail": {
-          "Items De Oficina": 254677,
-          "Plataformas Administracion": 158942
-        },
         "cv_detail": {
           "Mantención Y Mejoras Planta": 153686,
           "Packaging": 804222,
           "Seguros Y Seguridad": 91500
+        },
+        "gav_detail": {
+          "Items De Oficina": 254677,
+          "Plataformas Administracion": 158942
         },
         "tr_detail": {
           "Costos Variables de Despachos A Clientes": 201681
@@ -2082,6 +2082,14 @@
           "Equipo Ventas": 767219,
           "Plataforma LICITALAB": 248355
         },
+        "cv_detail": {
+          "Bonos": 345549,
+          "Mantención Y Mejoras Planta": 671979,
+          "Otros Costos de Producción": 1305095,
+          "Packaging": 1098512,
+          "Registros Y Certificaciones": 16100,
+          "Seguros Y Seguridad": 91500
+        },
         "gav_detail": {
           "Certificados de fianza o fiel cumplimiento": 198536,
           "Contabilidad Y Finanzas": 78813,
@@ -2094,14 +2102,6 @@
           "Plataformas Administracion": 408950,
           "Previred": 3135011,
           "Ret. Imp. Único Trab. Art. 74 N 1 LIR (auto)": 110836
-        },
-        "cv_detail": {
-          "Bonos": 345549,
-          "Mantención Y Mejoras Planta": 671979,
-          "Otros Costos de Producción": 1305095,
-          "Packaging": 1098512,
-          "Registros Y Certificaciones": 16100,
-          "Seguros Y Seguridad": 91500
         },
         "tr_detail": {
           "Costos Variables de Despachos A Clientes": 4637487
@@ -2130,6 +2130,15 @@
           "Herramientas De Producción": 25373,
           "Plataforma LICITALAB": 248373
         },
+        "cv_detail": {
+          "Bonos": 892397,
+          "Mantención Y Mejoras Planta": 260980,
+          "Otros Costos de Producción": 794294,
+          "Packaging": 648453,
+          "Registros Y Certificaciones": 9990,
+          "Seguros Y Seguridad": 91500,
+          "Uniforme": 20394
+        },
         "gav_detail": {
           "Contabilidad Y Finanzas": 78745,
           "Equipo Administracion": 2000000,
@@ -2140,15 +2149,6 @@
           "Plataformas Administracion": 408944,
           "Previred": 3243635,
           "Ret. Imp. Único Trab. Art. 74 N 1 LIR (auto)": 111074
-        },
-        "cv_detail": {
-          "Bonos": 892397,
-          "Mantención Y Mejoras Planta": 260980,
-          "Otros Costos de Producción": 794294,
-          "Packaging": 648453,
-          "Registros Y Certificaciones": 9990,
-          "Seguros Y Seguridad": 91500,
-          "Uniforme": 20394
         },
         "tr_detail": {
           "Costos Variables de Despachos A Clientes": 7522165
@@ -2177,6 +2177,16 @@
           "Herramientas De Producción": 40466,
           "Plataforma LICITALAB": 249011
         },
+        "cv_detail": {
+          "Bonos": 1105765,
+          "Mantención Y Mejoras Planta": 1177446,
+          "Otros Costos Variables": 70200,
+          "Otros Costos de Producción": 1054600,
+          "Packaging": 1437790,
+          "Registros Y Certificaciones": 275473,
+          "Seguros Y Seguridad": 91500,
+          "Servicio de bodegaje": 353982
+        },
         "gav_detail": {
           "Certificados de fianza o fiel cumplimiento": 30420,
           "Contabilidad Y Finanzas": 78940,
@@ -2188,16 +2198,6 @@
           "Plataformas Administracion": 491540,
           "Previred": 3222127,
           "Ret. Imp. Único Trab. Art. 74 N 1 LIR (auto)": 110591
-        },
-        "cv_detail": {
-          "Bonos": 1105765,
-          "Mantención Y Mejoras Planta": 1177446,
-          "Otros Costos Variables": 70200,
-          "Otros Costos de Producción": 1054600,
-          "Packaging": 1437790,
-          "Registros Y Certificaciones": 275473,
-          "Seguros Y Seguridad": 91500,
-          "Servicio de bodegaje": 353982
         },
         "tr_detail": {
           "Costos Variables de Despachos A Clientes": 4942317
@@ -2224,6 +2224,13 @@
           "Equipo Producción": 1350000,
           "Plataforma LICITALAB": 249838
         },
+        "cv_detail": {
+          "Mantención Y Mejoras Planta": 833820,
+          "Packaging": 3938647,
+          "Registros Y Certificaciones": 4600,
+          "Seguros Y Seguridad": 91500,
+          "Servicio de bodegaje": 212389
+        },
         "gav_detail": {
           "Certificados de fianza o fiel cumplimiento": 25357,
           "Contabilidad Y Finanzas": 79030,
@@ -2234,13 +2241,6 @@
           "Otros Gastos Administración": 643527,
           "Plataformas Administracion": 408944,
           "Previred": 3866
-        },
-        "cv_detail": {
-          "Mantención Y Mejoras Planta": 833820,
-          "Packaging": 3938647,
-          "Registros Y Certificaciones": 4600,
-          "Seguros Y Seguridad": 91500,
-          "Servicio de bodegaje": 212389
         },
         "tr_detail": {
           "Costos Variables de Despachos A Clientes": 1586300
@@ -2262,14 +2262,14 @@
         "cf_detail": {
           "Depreciación": 30769
         },
-        "gav_detail": {
-          "Items De Oficina": 254677,
-          "Plataformas Administracion": 158942
-        },
         "cv_detail": {
           "Mantención Y Mejoras Planta": 153686,
           "Packaging": 804222,
           "Seguros Y Seguridad": 91500
+        },
+        "gav_detail": {
+          "Items De Oficina": 254677,
+          "Plataformas Administracion": 158942
         },
         "tr_detail": {
           "Costos Variables de Despachos A Clientes": 201681
