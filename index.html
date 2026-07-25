@@ -383,6 +383,12 @@ function renderInsights(ytd,pe,mb_p,mn_p,monthly,src){
   const ins=[];const M=METAS[cy]||{};
   if(ytd.ing>0&&pe>ytd.ing)ins.push({c:'r',i:'↓',t:'Bajo punto de equilibrio',x:`Ventas acumuladas (${fC(ytd.ing)}) bajo el punto de equilibrio estimado (${fC(pe)}). Pérdida: ${fC(ytd.util)}.`});
   else if(ytd.util>0)ins.push({c:'g',i:'↑',t:'Sobre punto de equilibrio',x:`Ventas superan el punto de equilibrio. Utilidad: ${fC(ytd.util)} (${fP(ytd.util,ytd.ing)} sobre ventas).`});
+  if(ytd.ing>0){
+    const mbBE=ytd.cv+ytd.tr+ytd.cf+ytd.gav+ytd.gf+ytd.oe;
+    const mbBEp=mbBE/ytd.ing*100;
+    const gap=mb_p-mbBEp;
+    ins.push({c:gap>=0?'g':'r',i:'%',t:'Margen bruto de equilibrio',x:`Con la venta actual (${fC(ytd.ing)}), se necesita un margen bruto de ${mbBEp.toFixed(1)}% para utilidad = 0 (actual: ${mb_p.toFixed(1)}%, ${gap>=0?'holgura de +':'faltan '}${Math.abs(gap).toFixed(1)} pp).`});
+  }
   if(monthly.length>1){
     const w=monthly.reduce((a,b)=>((src[b.m]||{}).util||0)<((src[a.m]||{}).util||0)?b:a,monthly[0]);
     const wd=src[w.m]||{};
