@@ -230,7 +230,7 @@ function render(){
 
   const pe=calcPE(ytd);
   const mb_p=ytd.ing>0?ytd.mb/ytd.ing*100:0;
-  const mn_p=ytd.ing>0?ytd.mn/ytd.ing*100:0;
+  const mn_p=ytd.ing>0?(ytd.mb-ytd.cv-ytd.tr)/ytd.ing*100:0;
   const ytdF=sel.length/(D[cy].months.length||1);
   const ytdIng=(M.ing||0)*ytdF;
 
@@ -283,14 +283,16 @@ function renderTable(monthly,ytd,src){
     const cells=monthly.map(r=>{
       const d=src[r.m]||{};
       if(row.k==='mbp')return`<td>${fP(d.mb||0,d.ing||0)}</td>`;
-      if(row.k==='mnp')return`<td>${fP(d.mn||0,d.ing||0)}</td>`;
+      if(row.k==='mn'){const vn=(d.mb||0)-(d.cv||0)-(d.tr||0);return`<td class="${vn>=0?'pos':'neg'}">${fN(vn)}</td>`;}
+      if(row.k==='mnp')return`<td>${fP((d.mb||0)-(d.cv||0)-(d.tr||0),d.ing||0)}</td>`;
       if(row.k==='utp')return`<td class="${(d.util||0)>=0?'pos':'neg'}">${fP(d.util||0,d.ing||0)}</td>`;
       const v=d[row.k]||0;
       return`<td class="${row.col?(v>=0?'pos':'neg'):''}">${fN(row.neg?-v:v)}</td>`;
     }).join('');
     let yc='',pc='';
     if(row.k==='mbp'){yc=`<td class="ytd-c">${fP(ytd.mb,ytd.ing)}</td>`;pc='<td class="ytd-c"></td>';}
-    else if(row.k==='mnp'){yc=`<td class="ytd-c">${fP(ytd.mn,ytd.ing)}</td>`;pc='<td class="ytd-c"></td>';}
+    else if(row.k==='mn'){const vn=ytd.mb-ytd.cv-ytd.tr;yc=`<td class="ytd-c ${vn>=0?'pos':'neg'}">${fN(vn)}</td>`;pc=`<td class="ytd-c">${fP(vn,ytd.ing)}</td>`;}
+    else if(row.k==='mnp'){yc=`<td class="ytd-c">${fP(ytd.mb-ytd.cv-ytd.tr,ytd.ing)}</td>`;pc='<td class="ytd-c"></td>';}
     else if(row.k==='utp'){yc=`<td class="ytd-c ${ytd.util>=0?'pos':'neg'}">${fP(ytd.util,ytd.ing)}</td>`;pc='<td class="ytd-c"></td>';}
     else{
       const v=ytd[row.k]||0;
