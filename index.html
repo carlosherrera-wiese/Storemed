@@ -215,8 +215,9 @@ function getData(){
 
 function calcPE(ytd){
   const fix=ytd.cf+ytd.gav+ytd.gf-ytd.oe;
-  const mnp=ytd.ing>0?ytd.mn/ytd.ing:0;
-  return mnp>0?fix/mnp:0;
+  const cm=ytd.mb-ytd.cv-ytd.tr;          // Margen contribución = ing - mp - tal - cv - tr
+  const cmp=ytd.ing>0?cm/ytd.ing:0;
+  return cmp>0?fix/cmp:0;
 }
 
 function render(){
